@@ -1,15 +1,12 @@
 {
   "vaultName": "class notes etc",
-  "lastExport": 1742049829105,
+  "lastExport": 1742358093020,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "ChemE-notes-/README.md",
-    "cpc/cpc index.md",
-    "cpc/MIMO (multi input, multi output).md",
-    "cpc/smith predictor.md",
     "enivironmental engineering class notes/ADVANCED OXIDATION PROCESSES.md",
     "enivironmental engineering class notes/air pollution control.md",
     "enivironmental engineering class notes/Air pollution Mitigation in Petroleum refineries.md",
@@ -24,6 +21,8 @@
     "environment engineering/chapter 1 introduction to air pollution.md",
     "environment engineering/chapter 2 solid waste management.md",
     "environment engineering/environmental sciences.md",
+    "equipment design/equipment design.md",
+    "equipment design/equipment design (11 mar).md",
     "files/1-s2.0-0270025587905963-main.pdf",
     "files/1-s2.0-S2590182622000030-gr1.jpg",
     "files/3-s2.0-B9780128126639000023-f02-01-9780128126639.jpg",
@@ -58,6 +57,9 @@
     "files/Pasted image 20250305092400.png",
     "files/Pasted image 20250310090714.png",
     "files/Pasted image 20250312093338.png",
+    "files/Pasted image 20250317112804.png",
+    "files/Pasted image 20250317113218.png",
+    "files/Pasted image 20250319092822.png",
     "files/PS-L8_merged.pdf",
     "files/Safety-Devices-&-Inciden-Investigation.pdf",
     "files/Schematic-diagram-of-the-pearlite-steel-microstructure.png",
@@ -71,6 +73,10 @@
     "files/Screenshot_20250207_001544_Obsidian.jpg",
     "files/stainless-steel-heat-exchanger-tube-sizes-1047408210.jpg",
     "files/the-flixborough-disaster-report-of-the-court-of-inquiry.pdf",
+    "heat transfer (extra simplified)/heat transfer.md",
+    "heat transfer (extra simplified)/heat transfer summary.md",
+    "heat transfer (extra simplified)/ht theory important.md",
+    "heat transfer (extra simplified)/reboilers.md",
     "material tech/cat 1 revision.md",
     "material tech/corrosion.md",
     "material tech/failure of mat kvm (24 jan).md",
@@ -79,12 +85,16 @@
     "material tech/mat sci (3 feb).md",
     "material tech/material tech index.md",
     "material tech/material technology 27 dec.md",
-    "Multiphase/20250120_141434.jpg",
-    "Multiphase/design of a cstr and pfr.md",
-    "Multiphase/GLS systems.md",
-    "Multiphase/how to size a reactor.md",
-    "Multiphase/multi phase index.md",
-    "Multiphase/power consumption in a STR.md",
+    "Multiphase reaction engineering/20250120_141434.jpg",
+    "Multiphase reaction engineering/design of a cstr and pfr.md",
+    "Multiphase reaction engineering/GLS systems.md",
+    "Multiphase reaction engineering/how to size a reactor.md",
+    "Multiphase reaction engineering/multi phase reaction engineering index.md",
+    "Multiphase reaction engineering/Pasted image 20250314200935.png",
+    "Multiphase reaction engineering/power consumption in a STR.md",
+    "process control and dynamics/MIMO (multi input, multi output).md",
+    "process control and dynamics/process control index.md",
+    "process control and dynamics/smith predictor.md",
     "process safety/accidents.md",
     "process safety/ammonia leak, senegal.md",
     "process safety/bhopal gas tradegy.md",
@@ -102,28 +112,22 @@
     "process safety/PSEE midsems.md",
     "process safety/TEST PRACTICE QUESTIONS.md",
     "process safety/what is wrong with the following.md",
-    "refinery/(refinery) process safety examples.md",
-    "refinery/catalytic reforming.md",
-    "refinery/crude distillation column.md",
-    "refinery/electrostatic crude desalter.md",
-    "refinery/FCC unit.md",
-    "refinery/fluidisation in FCC unit.md",
-    "refinery/hydrocracker.md",
-    "refinery/project.md",
-    "refinery/refinery index.md",
+    "refinery sci and tech/(refinery) process safety examples.md",
+    "refinery sci and tech/catalytic reforming.md",
+    "refinery sci and tech/crude distillation column.md",
+    "refinery sci and tech/electrostatic crude desalter.md",
+    "refinery sci and tech/FCC unit.md",
+    "refinery sci and tech/fluidisation in FCC unit.md",
+    "refinery sci and tech/hydrocracker.md",
+    "refinery sci and tech/project.md",
+    "refinery sci and tech/refinery sci and tech index.md",
     "24 feb psl.md",
     "cheat sheet.md",
-    "equipment design.md",
-    "equipment design (11 mar).md",
     "for pid controllers.md",
     "fugurihg out.md",
-    "heat transfer revision.md",
-    "ht predicted.md",
-    "ht theory pyqs.md",
     "ipr.md",
     "keyboard.md",
-    "Pasted image 20250314200935.png",
-    "reboilers.md",
+    "Reactor design.md",
     "simulink.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -202,933 +206,957 @@
   ],
   "fileInfo": {
     "ChemE-notes-/README.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 190,
+      "modifiedTime": 1742358093020,
+      "sourceSize": 236,
       "exportedPath": "ChemE-notes-/README.html",
       "dependencies": []
     },
-    "cpc/cpc index.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 204,
-      "exportedPath": "cpc/cpc index.html",
-      "dependencies": []
-    },
-    "cpc/MIMO (multi input, multi output).md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 9481,
-      "exportedPath": "cpc/MIMO (multi input, multi output).html",
-      "dependencies": []
-    },
-    "cpc/smith predictor.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 3947,
-      "exportedPath": "cpc/smith predictor.html",
-      "dependencies": []
-    },
     "enivironmental engineering class notes/ADVANCED OXIDATION PROCESSES.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 561,
       "exportedPath": "enivironmental engineering class notes/ADVANCED OXIDATION PROCESSES.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/air pollution control.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 3623,
       "exportedPath": "enivironmental engineering class notes/air pollution control.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/Air pollution Mitigation in Petroleum refineries.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 4492,
       "exportedPath": "enivironmental engineering class notes/Air pollution Mitigation in Petroleum refineries.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/CO2 removal methods.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 0,
       "exportedPath": "enivironmental engineering class notes/CO2 removal methods.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/EE papers to read.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 53,
       "exportedPath": "enivironmental engineering class notes/EE papers to read.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/ee sample questions (l6).md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 2321,
       "exportedPath": "enivironmental engineering class notes/ee sample questions (l6).html",
       "dependencies": []
     },
     "enivironmental engineering class notes/particulate matter in air pollution mitigation.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 3548,
       "exportedPath": "enivironmental engineering class notes/particulate matter in air pollution mitigation.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/post, pre combustion cc.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 3577,
       "exportedPath": "enivironmental engineering class notes/post, pre combustion cc.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/solid waste management.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 20,
       "exportedPath": "enivironmental engineering class notes/solid waste management.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/waste management and effluent control.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 2705,
       "exportedPath": "enivironmental engineering class notes/waste management and effluent control.html",
       "dependencies": []
     },
     "environment engineering/chapter 1 introduction to air pollution.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 3298,
       "exportedPath": "environment engineering/chapter 1 introduction to air pollution.html",
       "dependencies": []
     },
     "environment engineering/environmental sciences.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 341,
       "exportedPath": "environment engineering/environmental sciences.html",
       "dependencies": []
     },
     "files/1-s2.0-0270025587905963-main.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 557316,
       "exportedPath": "files/1-s2.0-0270025587905963-main.pdf",
       "dependencies": []
     },
     "files/1-s2.0-S2590182622000030-gr1.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 59981,
       "exportedPath": "files/1-s2.0-S2590182622000030-gr1.jpg",
       "dependencies": []
     },
     "files/3-s2.0-B9780128126639000023-f02-01-9780128126639.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 46405,
       "exportedPath": "files/3-s2.0-B9780128126639000023-f02-01-9780128126639.jpg",
       "dependencies": []
     },
     "files/3-s2.0-B9780128221419000108-f03-11-9780128221419.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 39385,
       "exportedPath": "files/3-s2.0-B9780128221419000108-f03-11-9780128221419.jpg",
       "dependencies": []
     },
     "files/7-2-dead-time-compensation-9-638-19985996.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 24557,
       "exportedPath": "files/7-2-dead-time-compensation-9-638-19985996.jpg",
       "dependencies": []
     },
     "files/2012-11-Beacon-English.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 326050,
       "exportedPath": "files/2012-11-Beacon-English.pdf",
       "dependencies": []
     },
     "files/2013-01-Beacon-English.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 193522,
       "exportedPath": "files/2013-01-Beacon-English.pdf",
       "dependencies": []
     },
     "files/50174.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 828758,
       "exportedPath": "files/50174.pdf",
       "dependencies": []
     },
     "files/20250118_104400.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 11223,
       "exportedPath": "files/20250118_104400.jpg",
       "dependencies": []
     },
     "files/block-flow-diagram-pfd-reformer-revolutionary-capture-1788474605.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 15575,
       "exportedPath": "files/block-flow-diagram-pfd-reformer-revolutionary-capture-1788474605.png",
       "dependencies": []
     },
     "files/CHL407 STUDY MATERIAL.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 3622837,
       "exportedPath": "files/CHL407 STUDY MATERIAL.pdf",
       "dependencies": []
     },
     "files/CO2 utillization .pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 5628168,
       "exportedPath": "files/CO2 utillization .pdf/CO2 utillization .pdf.pdf",
       "dependencies": []
     },
     "files/cpc.odg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 15810,
       "exportedPath": "files/cpc.odg",
       "dependencies": []
     },
     "files/crude-oil-distillation-unit_clip_image002.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 66615,
       "exportedPath": "files/crude-oil-distillation-unit_clip_image002.jpg",
       "dependencies": []
     },
     "files/EE-L1-to-L4.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 8861560,
       "exportedPath": "files/EE-L1-to-L4.pdf",
       "dependencies": []
     },
     "files/EE-L6-2025.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 4621673,
       "exportedPath": "files/EE-L6-2025.pdf",
       "dependencies": []
     },
     "files/EE-L7-2025.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 3803640,
       "exportedPath": "files/EE-L7-2025.pdf",
       "dependencies": []
     },
     "files/EOR as a solution.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1462562,
       "exportedPath": "files/EOR as a solution.pdf",
       "dependencies": []
     },
     "files/fatigue_SN_01.gif": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 14787,
       "exportedPath": "files/fatigue_SN_01.gif",
       "dependencies": []
     },
     "files/FCC.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 25150,
       "exportedPath": "files/FCC.png",
       "dependencies": []
     },
     "files/GKL_IFAC.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 476288,
       "exportedPath": "files/GKL_IFAC.pdf",
       "dependencies": []
     },
     "files/ht paper.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1122157,
       "exportedPath": "files/ht paper.pdf",
       "dependencies": []
     },
     "files/ht paper 2.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 2059080,
       "exportedPath": "files/ht paper 2.pdf",
       "dependencies": []
     },
     "files/Lesson7Fig8.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 73020,
       "exportedPath": "files/Lesson7Fig8.png",
       "dependencies": []
     },
     "files/mixer 2o2i.ods": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 18372,
       "exportedPath": "files/mixer 2o2i.ods",
       "dependencies": []
     },
     "files/offshore-drilling-rigs.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 984438,
       "exportedPath": "files/offshore-drilling-rigs.png",
       "dependencies": []
     },
     "files/Pasted image.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 7091,
       "exportedPath": "files/Pasted image.png",
       "dependencies": []
     },
     "files/Pasted image 20250105224811.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 8848,
       "exportedPath": "files/Pasted image 20250105224811.jpg",
       "dependencies": []
     },
     "files/Pasted image 20250301123448.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 409689,
       "exportedPath": "files/Pasted image 20250301123448.png",
       "dependencies": []
     },
     "files/Pasted image 20250305091257.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 30001,
       "exportedPath": "files/Pasted image 20250305091257.png",
       "dependencies": []
     },
     "files/Pasted image 20250305091313.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 30001,
       "exportedPath": "files/Pasted image 20250305091313.png",
       "dependencies": []
     },
     "files/Pasted image 20250305092400.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 17407,
       "exportedPath": "files/Pasted image 20250305092400.png",
       "dependencies": []
     },
     "files/Pasted image 20250310090714.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 33762,
       "exportedPath": "files/Pasted image 20250310090714.png",
       "dependencies": []
     },
     "files/Pasted image 20250312093338.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 28450,
       "exportedPath": "files/Pasted image 20250312093338.png",
       "dependencies": []
     },
     "files/PS-L8_merged.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 11975306,
       "exportedPath": "files/PS-L8_merged.pdf",
       "dependencies": []
     },
     "files/Safety-Devices-&-Inciden-Investigation.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 4774261,
       "exportedPath": "files/Safety-Devices-&-Inciden-Investigation.pdf",
       "dependencies": []
     },
     "files/Schematic-diagram-of-the-pearlite-steel-microstructure.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 20417,
       "exportedPath": "files/Schematic-diagram-of-the-pearlite-steel-microstructure.png",
       "dependencies": []
     },
     "files/Screenshot_20250109_230143_YouTube.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 341216,
       "exportedPath": "files/Screenshot_20250109_230143_YouTube.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250109_230143_YouTube 1.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 0,
       "exportedPath": "files/Screenshot_20250109_230143_YouTube 1.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250109_230143_YouTube 2.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 341216,
       "exportedPath": "files/Screenshot_20250109_230143_YouTube 2.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250109_232118_YouTube.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 265266,
       "exportedPath": "files/Screenshot_20250109_232118_YouTube.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250114_140515_Samsung Notes.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 149645,
       "exportedPath": "files/Screenshot_20250114_140515_Samsung Notes.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250128_094748_Samsung Notes.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 139224,
       "exportedPath": "files/Screenshot_20250128_094748_Samsung Notes.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250203_085128_Google.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 152650,
       "exportedPath": "files/Screenshot_20250203_085128_Google.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250207_001544_Obsidian.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 97078,
       "exportedPath": "files/Screenshot_20250207_001544_Obsidian.jpg",
       "dependencies": []
     },
     "files/stainless-steel-heat-exchanger-tube-sizes-1047408210.jpg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 93426,
       "exportedPath": "files/stainless-steel-heat-exchanger-tube-sizes-1047408210.jpg",
       "dependencies": []
     },
     "files/the-flixborough-disaster-report-of-the-court-of-inquiry.pdf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 10739405,
       "exportedPath": "files/the-flixborough-disaster-report-of-the-court-of-inquiry.pdf",
       "dependencies": []
     },
     "material tech/cat 1 revision.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 2488,
       "exportedPath": "material tech/cat 1 revision.html",
       "dependencies": []
     },
     "material tech/corrosion.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 8723,
       "exportedPath": "material tech/corrosion.html",
       "dependencies": []
     },
     "material tech/failure of mat kvm (24 jan).md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 810,
       "exportedPath": "material tech/failure of mat kvm (24 jan).html",
       "dependencies": []
     },
     "material tech/Fracture of materials.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 2569,
       "exportedPath": "material tech/Fracture of materials.html",
       "dependencies": []
     },
     "material tech/Heat treatment of Steel.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 0,
       "exportedPath": "material tech/Heat treatment of Steel.html",
       "dependencies": []
     },
     "material tech/mat sci (3 feb).md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 634,
       "exportedPath": "material tech/mat sci (3 feb).html",
       "dependencies": []
     },
     "material tech/material tech index.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 171,
       "exportedPath": "material tech/material tech index.html",
       "dependencies": []
     },
     "material tech/material technology 27 dec.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1501,
       "exportedPath": "material tech/material technology 27 dec.html",
       "dependencies": []
     },
     "process safety/accidents.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 479,
       "exportedPath": "process safety/accidents.html",
       "dependencies": []
     },
     "process safety/ammonia leak, senegal.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 194,
       "exportedPath": "process safety/ammonia leak, senegal.html",
       "dependencies": []
     },
     "process safety/bhopal gas tradegy.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 3407,
       "exportedPath": "process safety/bhopal gas tradegy.html",
       "dependencies": []
     },
     "process safety/CASE STUDIES (read from notesclass).md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 367,
       "exportedPath": "process safety/CASE STUDIES (read from notesclass).html",
       "dependencies": []
     },
     "process safety/ConAgra natural gas leak.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1777,
       "exportedPath": "process safety/ConAgra natural gas leak.html",
       "dependencies": []
     },
     "process safety/deep water horizon oil rig breakage.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 2568,
       "exportedPath": "process safety/deep water horizon oil rig breakage.html",
       "dependencies": []
     },
     "process safety/flixborough shut down diaster.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 3607,
       "exportedPath": "process safety/flixborough shut down diaster.html",
       "dependencies": []
     },
     "process safety/natural gas leak conneticut,2010.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 692,
       "exportedPath": "process safety/natural gas leak conneticut,2010.html",
       "dependencies": []
     },
     "process safety/Pasted image 20250303092319.png": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 32756,
       "exportedPath": "process safety/Pasted image 20250303092319.png",
       "dependencies": []
     },
     "process safety/pemex lpg leak mexico.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 2113,
       "exportedPath": "process safety/pemex lpg leak mexico.html",
       "dependencies": []
     },
     "process safety/process safety.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1189,
       "exportedPath": "process safety/process safety.html",
       "dependencies": []
     },
     "process safety/process safety (1).md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1257,
       "exportedPath": "process safety/process safety (1).html",
       "dependencies": []
     },
     "process safety/PS lec 28 feb.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 2535,
       "exportedPath": "process safety/PS lec 28 feb.html",
       "dependencies": []
     },
     "process safety/PSEE cat 1.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 2676,
       "exportedPath": "process safety/PSEE cat 1.html",
       "dependencies": []
     },
     "process safety/PSEE midsems.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1880,
       "exportedPath": "process safety/PSEE midsems.html",
       "dependencies": []
     },
     "process safety/TEST PRACTICE QUESTIONS.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 2953,
       "exportedPath": "process safety/TEST PRACTICE QUESTIONS.html",
       "dependencies": []
     },
     "process safety/what is wrong with the following.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 206,
       "exportedPath": "process safety/what is wrong with the following.html",
       "dependencies": []
     },
-    "refinery/(refinery) process safety examples.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 1015,
-      "exportedPath": "refinery/(refinery) process safety examples.html",
-      "dependencies": []
-    },
-    "refinery/catalytic reforming.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 5885,
-      "exportedPath": "refinery/catalytic reforming.html",
-      "dependencies": []
-    },
-    "refinery/crude distillation column.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 4107,
-      "exportedPath": "refinery/crude distillation column.html",
-      "dependencies": []
-    },
-    "refinery/electrostatic crude desalter.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 2509,
-      "exportedPath": "refinery/electrostatic crude desalter.html",
-      "dependencies": []
-    },
-    "refinery/FCC unit.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 8415,
-      "exportedPath": "refinery/FCC unit.html",
-      "dependencies": []
-    },
-    "refinery/fluidisation in FCC unit.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 1876,
-      "exportedPath": "refinery/fluidisation in FCC unit.html",
-      "dependencies": []
-    },
-    "refinery/hydrocracker.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 244,
-      "exportedPath": "refinery/hydrocracker.html",
-      "dependencies": []
-    },
-    "refinery/project.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 6335,
-      "exportedPath": "refinery/project.html",
-      "dependencies": []
-    },
-    "refinery/refinery index.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 287,
-      "exportedPath": "refinery/refinery index.html",
-      "dependencies": []
-    },
     "24 feb psl.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 324,
       "exportedPath": "24 feb psl.html",
       "dependencies": []
     },
     "cheat sheet.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1144,
       "exportedPath": "cheat sheet.html",
       "dependencies": []
     },
-    "equipment design.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 2649,
-      "exportedPath": "equipment design.html",
-      "dependencies": []
-    },
-    "equipment design (11 mar).md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 2388,
-      "exportedPath": "equipment design (11 mar).html",
-      "dependencies": []
-    },
     "for pid controllers.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 81,
       "exportedPath": "for pid controllers.html",
       "dependencies": []
     },
     "fugurihg out.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 57,
       "exportedPath": "fugurihg out.html",
       "dependencies": []
     },
-    "heat transfer revision.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 2311,
-      "exportedPath": "heat transfer revision.html",
-      "dependencies": []
-    },
-    "ht predicted.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 1179,
-      "exportedPath": "ht predicted.html",
-      "dependencies": []
-    },
-    "ht theory pyqs.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 860,
-      "exportedPath": "ht theory pyqs.html",
-      "dependencies": []
-    },
     "ipr.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1102,
       "exportedPath": "ipr.html",
       "dependencies": []
     },
     "keyboard.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 141,
       "exportedPath": "keyboard.html",
       "dependencies": []
     },
-    "Pasted image 20250314200935.png": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 165789,
-      "exportedPath": "Pasted image 20250314200935.png",
-      "dependencies": []
-    },
-    "reboilers.md": {
-      "modifiedTime": 1742049829105,
-      "sourceSize": 2948,
-      "exportedPath": "reboilers.html",
-      "dependencies": []
-    },
     "simulink.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 508,
       "exportedPath": "simulink.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
     "enivironmental engineering class notes/ee class notes index.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 303,
       "exportedPath": "enivironmental engineering class notes/ee class notes index.html",
       "dependencies": []
     },
     "environment engineering/chapter 2 solid waste management.md": {
-      "modifiedTime": 1742049829105,
+      "modifiedTime": 1742358093020,
       "sourceSize": 804,
       "exportedPath": "environment engineering/chapter 2 solid waste management.html",
       "dependencies": []
     },
-    "Multiphase/20250120_141434.jpg": {
-      "modifiedTime": 1742049829105,
+    "equipment design/equipment design.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 2649,
+      "exportedPath": "equipment design/equipment design.html",
+      "dependencies": []
+    },
+    "equipment design/equipment design (11 mar).md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 2388,
+      "exportedPath": "equipment design/equipment design (11 mar).html",
+      "dependencies": []
+    },
+    "files/Pasted image 20250317112804.png": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 41575,
+      "exportedPath": "files/Pasted image 20250317112804.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20250317113218.png": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 345045,
+      "exportedPath": "files/Pasted image 20250317113218.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20250319092822.png": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 88937,
+      "exportedPath": "files/Pasted image 20250319092822.png",
+      "dependencies": []
+    },
+    "heat transfer (extra simplified)/heat transfer.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 2768,
+      "exportedPath": "heat transfer (extra simplified)/heat transfer.html",
+      "dependencies": []
+    },
+    "heat transfer (extra simplified)/heat transfer summary.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 2311,
+      "exportedPath": "heat transfer (extra simplified)/heat transfer summary.html",
+      "dependencies": []
+    },
+    "heat transfer (extra simplified)/ht theory important.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 860,
+      "exportedPath": "heat transfer (extra simplified)/ht theory important.html",
+      "dependencies": []
+    },
+    "heat transfer (extra simplified)/reboilers.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 2947,
+      "exportedPath": "heat transfer (extra simplified)/reboilers.html",
+      "dependencies": []
+    },
+    "Multiphase reaction engineering/20250120_141434.jpg": {
+      "modifiedTime": 1742358093020,
       "sourceSize": 788021,
-      "exportedPath": "Multiphase/20250120_141434.jpg",
+      "exportedPath": "Multiphase reaction engineering/20250120_141434.jpg",
       "dependencies": []
     },
-    "Multiphase/design of a cstr and pfr.md": {
-      "modifiedTime": 1742049829105,
+    "Multiphase reaction engineering/design of a cstr and pfr.md": {
+      "modifiedTime": 1742358093020,
       "sourceSize": 2191,
-      "exportedPath": "Multiphase/design of a cstr and pfr.html",
+      "exportedPath": "Multiphase reaction engineering/design of a cstr and pfr.html",
       "dependencies": []
     },
-    "Multiphase/GLS systems.md": {
-      "modifiedTime": 1742049829105,
+    "Multiphase reaction engineering/GLS systems.md": {
+      "modifiedTime": 1742358093020,
       "sourceSize": 714,
-      "exportedPath": "Multiphase/GLS systems.html",
+      "exportedPath": "Multiphase reaction engineering/GLS systems.html",
       "dependencies": []
     },
-    "Multiphase/how to size a reactor.md": {
-      "modifiedTime": 1742049829105,
+    "Multiphase reaction engineering/how to size a reactor.md": {
+      "modifiedTime": 1742358093020,
       "sourceSize": 1771,
-      "exportedPath": "Multiphase/how to size a reactor.html",
+      "exportedPath": "Multiphase reaction engineering/how to size a reactor.html",
       "dependencies": []
     },
-    "Multiphase/multi phase index.md": {
-      "modifiedTime": 1742049829105,
+    "Multiphase reaction engineering/multi phase reaction engineering index.md": {
+      "modifiedTime": 1742358093020,
       "sourceSize": 252,
-      "exportedPath": "Multiphase/multi phase index.html",
+      "exportedPath": "Multiphase reaction engineering/multi phase reaction engineering index.html",
       "dependencies": []
     },
-    "Multiphase/power consumption in a STR.md": {
-      "modifiedTime": 1742049829105,
+    "Multiphase reaction engineering/Pasted image 20250314200935.png": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 165789,
+      "exportedPath": "Multiphase reaction engineering/Pasted image 20250314200935.png",
+      "dependencies": []
+    },
+    "Multiphase reaction engineering/power consumption in a STR.md": {
+      "modifiedTime": 1742358093020,
       "sourceSize": 1140,
-      "exportedPath": "Multiphase/power consumption in a STR.html",
+      "exportedPath": "Multiphase reaction engineering/power consumption in a STR.html",
+      "dependencies": []
+    },
+    "process control and dynamics/MIMO (multi input, multi output).md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 9481,
+      "exportedPath": "process control and dynamics/MIMO (multi input, multi output).html",
+      "dependencies": []
+    },
+    "process control and dynamics/process control index.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 204,
+      "exportedPath": "process control and dynamics/process control index.html",
+      "dependencies": []
+    },
+    "process control and dynamics/smith predictor.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 3947,
+      "exportedPath": "process control and dynamics/smith predictor.html",
+      "dependencies": []
+    },
+    "refinery sci and tech/(refinery) process safety examples.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 1015,
+      "exportedPath": "refinery sci and tech/(refinery) process safety examples.html",
+      "dependencies": []
+    },
+    "refinery sci and tech/catalytic reforming.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 5885,
+      "exportedPath": "refinery sci and tech/catalytic reforming.html",
+      "dependencies": []
+    },
+    "refinery sci and tech/crude distillation column.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 4107,
+      "exportedPath": "refinery sci and tech/crude distillation column.html",
+      "dependencies": []
+    },
+    "refinery sci and tech/electrostatic crude desalter.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 2509,
+      "exportedPath": "refinery sci and tech/electrostatic crude desalter.html",
+      "dependencies": []
+    },
+    "refinery sci and tech/FCC unit.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 8415,
+      "exportedPath": "refinery sci and tech/FCC unit.html",
+      "dependencies": []
+    },
+    "refinery sci and tech/fluidisation in FCC unit.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 1876,
+      "exportedPath": "refinery sci and tech/fluidisation in FCC unit.html",
+      "dependencies": []
+    },
+    "refinery sci and tech/hydrocracker.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 244,
+      "exportedPath": "refinery sci and tech/hydrocracker.html",
+      "dependencies": []
+    },
+    "refinery sci and tech/project.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 6335,
+      "exportedPath": "refinery sci and tech/project.html",
+      "dependencies": []
+    },
+    "refinery sci and tech/refinery sci and tech index.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 287,
+      "exportedPath": "refinery sci and tech/refinery sci and tech index.html",
+      "dependencies": []
+    },
+    "Reactor design.md": {
+      "modifiedTime": 1742358093020,
+      "sourceSize": 241,
+      "exportedPath": "Reactor design.html",
       "dependencies": []
     }
   }
