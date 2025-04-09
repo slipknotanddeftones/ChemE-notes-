@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[class notes etc]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>class notes etc</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 09 Apr 2025 11:59:45 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 09 Apr 2025 11:59:01 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[ChemE-notes]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[class notes etc]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>class notes etc</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 09 Apr 2025 12:13:18 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 09 Apr 2025 12:12:45 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[ChemE-notes]]></title><description><![CDATA[ 
  <br><br>notes for various chemical engineering subs<br>
 <a data-href="process control index" href="process control and dynamics/process control index.html" class="internal-link" target="_self" rel="noopener nofollow">process control index</a><br>
 <a data-href="multi phase reaction engineering index" href="Multiphase reaction engineering/multi phase reaction engineering index.html" class="internal-link" target="_self" rel="noopener nofollow">multi phase reaction engineering index</a><br>
@@ -2980,8 +2980,7 @@ a stream table, allows us to obtain the data for different streams<br>exam<br>
 <br>perry's eqn will be given, data will be given Antoine constants will be needed to fit
 <br>adding a new molecule to perry's data
 <br>imp code: utilities.py
-]]></description><link>24 feb psl.html</link><guid isPermaLink="false">24 feb psl.md</guid><pubDate>Mon, 24 Feb 2025 17:06:08 GMT</pubDate></item><item><title><![CDATA[ce lab precautions for each experiment]]></title><description><![CDATA[ 
- <br>]]></description><link>ce lab precautions for each experiment.html</link><guid isPermaLink="false">ce lab precautions for each experiment.md</guid><pubDate>Sun, 06 Apr 2025 11:26:48 GMT</pubDate></item><item><title><![CDATA[call outs]]></title><description><![CDATA[ 
+]]></description><link>24 feb psl.html</link><guid isPermaLink="false">24 feb psl.md</guid><pubDate>Mon, 24 Feb 2025 17:06:08 GMT</pubDate></item><item><title><![CDATA[call outs]]></title><description><![CDATA[ 
  <br><br>Quote
 Lorem ipsum dolor sit amet
 <br>Example
@@ -3016,81 +3015,7 @@ To link to a heading within the same note, type&nbsp;[[#&nbsp;to get a list of h
 <br>Down arrow (↓) — &amp;darr;
 <br>Degree (°) — &amp;#176;
 <br>Pi (π) — &amp;#960;
-]]></description><link>cheat sheet.html</link><guid isPermaLink="false">cheat sheet.md</guid><pubDate>Wed, 05 Mar 2025 04:51:43 GMT</pubDate></item><item><title><![CDATA[CSTR controller design]]></title><description><![CDATA[ 
- <br>ill rail the shit outta you<br><br>Continuous Stirred Tank Reactors (CSTRs) are widely used in chemical industries for exothermic reactions, where temperature control is crucial for safety and efficiency. This report presents a MATLAB-based controller design for a cooling-jacketed CSTR, referring to the paper "Controller Design for a Cooling Jacketed CSTR" (SSRN-4019997).  <br>The objectives of this study are:  # Controller Design for a Cooling Jacketed CSTR: A Comprehensive Report<br>
-<br>Model the CSTR dynamics using material and energy balance equations.  
-<br>Linearize the nonlinear system for controller design.  
-<br>Design and compare PID vs. Cascade control strategies.  
-<br>Simulate and analyze the system’s response to disturbances.  
-<br><br><br>The CSTR system is governed by mass balance and energy balance equations.  <br><br>The rate of change of reactant concentration ( C_A ) is given by:  <br><br>Where:  <br>
-<br>( F ): Volumetric flow rate (m³/h)  
-<br>( V ): Reactor volume (m³)  
-<br> Feed concentration (mol/m³)  
-<br>: Arrhenius rate constant (1/h)  
-<br>: Activation energy (J/mol)  
-<br>( R ): Universal gas constant (J/mol·K)  
-<br><br>The temperature dynamics inside the reactor are:  <br><br>Where:  <br>
-<br>: Feed temperature (K)  
-<br>: Heat of reaction (J/mol)  
-<br>: Heat capacity of the mixture (J/m³·K)  
-<br>( U ): Overall heat transfer coefficient (J/m²·h·K)  
-<br>( A ): Heat transfer area (m²)  
-<br> : Jacket temperature (K)  
-<br><br>The jacket temperature dynamics are:  <br><br>Where:  <br>
-<br> : Coolant flow rate (m³/h)  
-<br>: Jacket volume (m³)  
-<br> : Coolant inlet temperature (K)  
-<br>: Heat capacity of coolant (J/m³·K)  
-<br><br><br>At steady-state, . Using MATLAB’s fsolve, we compute:  <br>from scipy.optimize import fsolve
-
-def steady_state_equations(vars):
-    C_A, T, T_j = vars
-    r = k0 * np.exp(-Ea/(R*T)) * C_A
-    eq1 = (F/V) * (CA0 - C_A) - r
-    eq2 = (F/V) * (Tf - T) - (H/(rho_Cp)) * r + (U*A/(rho_Cp*V)) * (T_j - T)
-    eq3 = (Fj/Vj) * (Tg - T_j) + (U*A/(rhoj_Cpj*Vj)) * (T - T_j)
-    return [eq1, eq2, eq3]
-
-# Solve for steady-state
-C_A_ss, T_ss, Tj_ss = fsolve(steady_state_equations, [CA0, Tf, Tg])
-<br>Steady-state values:  <br>
-<br> ,  
-<br>T = 311 , 
-<br> = 290 ,    
-<br><br><br>The nonlinear system is linearized around steady-state:  <br><br><br>Where:  <br>
-<br>State variables (x): 
-<br>Input (u): Coolant flow rate   
-<br>Output (y): Reactor temperature 
-<br>Jacobian matrices:  <br>A = np.array([
-    [-(F/V) - k0*np.exp(-Ea/(R*T_ss)), (Ea/(R*T_ss**2)) * k0 * np.exp(-Ea/(R*T_ss)) * C_A_ss, 0],
-    [-(H/(rho_Cp)) * k0 * np.exp(-Ea/(R*T_ss)), -(F/V) + (H*Ea/(rho_Cp*R*T_ss**2)) * k0 * np.exp(-Ea/(R*T_ss)) * C_A_ss - (U*A/(rho_Cp*V)), (U*A/(rho_Cp*V))],
-    [0, (U*A/(rhoj_Cpj*Vj)), -(Fj_ss/Vj) - (U*A/(rhoj_Cpj*Vj))]
-])
-
-B = np.array([[0], [0], [(Tg - Tj_ss)/Vj]])
-C = np.array([[0, 1, 0]])  # Measure only temperature
-<br><br><br><br>A standard PID controller is tuned using Ziegler-Nichols:  <br>Kp = -10.35, Ti = -10.95, Td = -2.32
-<br><br>A two-loop cascade control is implemented:  <br>
-<br>Inner loop: Controls jacket temperature  using .  
-<br>Outer loop: Controls reactor temperature  using the inner loop’s set-point.  
-<br><br><br><br><br>
-<br>PID Control: High overshoot (~12%) but fast settling (~2.5h).  
-<br>Cascade Control: Smoother response (~5.3% overshoot) but slower settling (~3h).  
-<br><br>
-<br>Cascade control performs better when coolant temperature ( T_g ) fluctuates.  
-<br><br><br><br>
-<br>Cascade control is superior for disturbance rejection.  
-<br>PID is simpler but less robust against disturbances.  
-<br>Linearization works well near steady-state but deviates for large disturbances.  
-<br><br>
-<br>"The paper’s approach is practical but could benefit from Model Predictive Control (MPC) for better nonlinear handling."  
-<br>"MATLAB’s automated tuning is convenient but manual tuning might improve performance."  
-<br>"Future work could explore adaptive control for varying reaction conditions."  
-<br><br><br>
-<br>Mohammed Nihad P N et al., "Controller Design for a Cooling Jacketed CSTR" (SSRN-4019997).  
-<br>Sundari &amp; Nachiappan, "Cascade Control for CSTR" (2019).  
-<br>MATLAB Documentation, "Control System Toolbox".  
-<br><br><br>This study successfully demonstrates PID vs. Cascade control for a CSTR, aligning with industrial needs for temperature stability. The MATLAB implementation provides a reproducible framework for further research.  <br><br>Appendix: Full MATLAB/Python code available upon request. ]]></description><link>CSTR controller design.html</link><guid isPermaLink="false">CSTR controller design.md</guid><pubDate>Fri, 28 Mar 2025 14:36:10 GMT</pubDate></item><item><title><![CDATA[fugurihg out]]></title><description><![CDATA[ 
+]]></description><link>cheat sheet.html</link><guid isPermaLink="false">cheat sheet.md</guid><pubDate>Wed, 05 Mar 2025 04:51:43 GMT</pubDate></item><item><title><![CDATA[fugurihg out]]></title><description><![CDATA[ 
  <br><a data-href="cat 1 revision" href="material tech/cat 1 revision.html" class="internal-link" target="_self" rel="noopener nofollow">cat 1 revision</a><br>Quote
 piss
 <br>Danger
