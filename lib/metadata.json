@@ -1,11 +1,37 @@
 {
   "vaultName": "class notes etc",
-  "lastExport": 1765898205163,
+  "lastExport": 1787389716781,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "validBodyClasses": "publish css-settings-manager theme-dark styled-scrollbars show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "cads/cads lec 1.md",
+    "cads/cads lec 2.md",
+    "cads/cads lec 3.md",
+    "cads/cads lec 4.md",
+    "cads/cads lec 5.md",
+    "cads/computer aided decision systems CADS (nptel) index.md",
+    "cads- swayam notes/quiz/quiz1-12.pdf",
+    "cads- swayam notes/cads all notes.pdf",
+    "cads- swayam notes/php and iot.pdf",
+    "cads- swayam notes/questions.pdf",
+    "cads- swayam notes/sql.pdf",
+    "cads- swayam notes/summary 4-6.pdf",
+    "cads- swayam notes/week 1-6.pdf",
+    "cads- swayam notes/week 7-12.pdf",
+    "cads- swayam notes/week1.pdf",
+    "cads- swayam notes/week2.pdf",
+    "cads- swayam notes/week3.pdf",
+    "cads- swayam notes/week4.pdf",
+    "cads- swayam notes/week5.pdf",
+    "cads- swayam notes/week6.pdf",
+    "cads- swayam notes/week7.pdf",
+    "cads- swayam notes/week8.pdf",
+    "cads- swayam notes/week9.pdf",
+    "cads- swayam notes/week10.pdf",
+    "cads- swayam notes/week11.pdf",
+    "cads- swayam notes/week12.pdf",
     "ChemE-notes-/README.md",
     "cpde/3 dec - cpde.md",
     "cpde/12,14 nov - cpde.md",
@@ -18,6 +44,31 @@
     "cpde/cpde 24 sept lec.md",
     "cpde/cpde index.md",
     "cpde/Introduction to Chemical process engineering and development (hereon CPDE).md",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.22.40.jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.09.jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.09 (1).jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.09 (2).jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10.jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (1).jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (2).jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (3).jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (4).jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (5).jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (6).jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (7).jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (8).jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.32.jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.32 (1).jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.33.jpeg",
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.33 (1).jpeg",
+    "dae/dae notes/dae problems/dae_numericals.pdf",
+    "dae/dae notes/dae problems/dae_solutions.pdf",
+    "dae/dae notes/dae problems/post_mids_problems.pdf",
+    "dae/dae notes/midsem.pdf",
+    "dae/dae notes/post_mids_notes.pdf",
+    "dae/dae - lec 2 (12 jan).md",
+    "dae/dae 16 march.md",
+    "dae/dae cheat sheet.md",
     "enivironmental engineering class notes/ADVANCED OXIDATION PROCESSES.md",
     "enivironmental engineering class notes/air pollution control.md",
     "enivironmental engineering class notes/Air pollution Mitigation in Petroleum refineries.md",
@@ -26,6 +77,48 @@
     "enivironmental engineering class notes/particulate matter in air pollution mitigation.md",
     "enivironmental engineering class notes/post, pre combustion cc.md",
     "enivironmental engineering class notes/waste management and effluent control.md",
+    "entrepreneurship notes /bnt lec 17 apr.md",
+    "entrepreneurship notes /entrepreneurship lec 1,2 - 23,30 jan.md",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.38.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.39.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.40.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.40 (1).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.41.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.44.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.45.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.47.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.50.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.53.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.54.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.54 (1).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.55.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.55 (1).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.56.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.57.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.58.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.59.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.00.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.00 (1).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.01.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.01 (1).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.01 (2).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.02.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.02 (1).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.02 (2).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.03.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.03 (1).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.03 (2).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.04.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.04 (1).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.05.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.05 (1).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.05 (2).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.06.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.06 (1).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.07.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.07 (1).jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.08.jpeg",
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.08 (1).jpeg",
     "environment engineering/chapter 1 introduction to air pollution.md",
     "environment engineering/chapter 2 solid waste management.md",
     "environment engineering/chapter 4 life cycle assessment.md",
@@ -83,6 +176,23 @@
     "files/Pasted image 20251114134221.png",
     "files/Pasted image 20251114134328.png",
     "files/Pasted image 20251114134411.png",
+    "files/Pasted image 20251121210018.png",
+    "files/Pasted image 20260102201332.png",
+    "files/Pasted image 20260102203144.png",
+    "files/Pasted image 20260105111859.png",
+    "files/Pasted image 20260107111051.png",
+    "files/Pasted image 20260107114658.png",
+    "files/Pasted image 20260110140947.png",
+    "files/Pasted image 20260112093330.png",
+    "files/Pasted image 20260113204747.png",
+    "files/Pasted image 20260114142143.png",
+    "files/Pasted image 20260114142415.png",
+    "files/Pasted image 20260121105252.png",
+    "files/Pasted image 20260121105615.png",
+    "files/Pasted image 20260121110028.png",
+    "files/Pasted image 20260204110849.png",
+    "files/Pasted image 20260302232907.png",
+    "files/Pasted image 20260302232929.png",
     "files/Schematic-diagram-of-the-pearlite-steel-microstructure.png",
     "files/Screenshot_20250109_230143_YouTube.jpg",
     "files/Screenshot_20250109_230143_YouTube 1.jpg",
@@ -98,6 +208,144 @@
     "heat transfer (extra simplified)/heat transfer summary.md",
     "heat transfer (extra simplified)/ht theory important.md",
     "heat transfer (extra simplified)/reboilers.md",
+    "homepaper references/citations bib/patent citation.txt",
+    "homepaper references/citations bib/references.bib",
+    "homepaper references/final paper/figures/ictlogo.jpg",
+    "homepaper references/final paper/figures/screenshot001.png",
+    "homepaper references/final paper/22CHE142Homepaper.toc",
+    "homepaper references/final paper/22CHE142Homepaper.tex",
+    "homepaper references/final paper/22CHE142Homepaper.pdf",
+    "homepaper references/final paper/22CHE142Homepaper.log",
+    "homepaper references/final paper/22CHE142Homepaper.lof",
+    "homepaper references/final paper/22CHE142Homepaper.blg",
+    "homepaper references/final paper/22CHE142Homepaper.bbl",
+    "homepaper references/final paper/22CHE142Homepaper.aux",
+    "homepaper references/final paper/22CHE142Homepaper.synctex.gz",
+    "homepaper references/hp final/22CHE142HPsub.pdf",
+    "homepaper references/hp final/annexure1.pdf",
+    "homepaper references/hp final/annexure2.pdf",
+    "homepaper references/hp final/annexure3.pdf",
+    "homepaper references/hp final/annexure4.pdf",
+    "homepaper references/hp final/bt-6_bulletin_715.pdf",
+    "homepaper references/hp final/citations manager.ods",
+    "homepaper references/hp final/costing.ods",
+    "homepaper references/hp final/database of sorts (1).xlsx",
+    "homepaper references/hp final/LLE_Column_Design_v2.xlsx",
+    "homepaper references/hp final/MAA_Distillation_Column_Sizing(1).xlsx",
+    "homepaper references/hp final/mass balance final.xlsx",
+    "homepaper references/hp final/Pasted image (2).png",
+    "homepaper references/hp final/pfd.pdf",
+    "homepaper references/hp final/pfd_maa1_final.pdf",
+    "homepaper references/hp final/process design.ods",
+    "homepaper references/sims/lle_maa.dwxmz",
+    "homepaper references/2-HYDROXYETHYL-METHACRYLATE-2-HEMA.pdf",
+    "homepaper references/22CHE142HPSub4.pdf",
+    "homepaper references/CIR HEMA.pdf",
+    "homepaper references/costing.ods",
+    "homepaper references/database of sorts.ods",
+    "homepaper references/HEMA msds.pdf",
+    "homepaper references/HEMA synthesis.pdf",
+    "homepaper references/HEMA use.pdf",
+    "homepaper references/kinetics.ods",
+    "homepaper references/maa_pfd.png",
+    "homepaper references/maa_pfd.dia",
+    "homepaper references/mass balance.ods",
+    "homepaper references/mass balance c4.ods",
+    "homepaper references/METHACRYLIC-ACID--99-5---1LT.pdf",
+    "homepaper references/reaction equlibria.ods",
+    "homepaper references/reactions occuring.txt",
+    "homepaper references/synthesis of hema based hydrogel.pdf",
+    "homepaper references/Untitled 1.ods",
+    "homepaper references/US5153162.pdf",
+    "homepaper references/US8426637.pdf",
+    "hp4/22CHE142HPSub3.pdf",
+    "hp4/22CHE142HPSub4.pdf",
+    "hp4/hp41.pdf",
+    "hp4/hp42.pdf",
+    "hp4/hp43.pdf",
+    "icet/icet class ppt/class ppts/BChem-ICET-CAT1-2024.pdf",
+    "icet/icet class ppt/class ppts/DOC-20260209-WA0010..pdf",
+    "icet/icet class ppt/class ppts/icet '25 .pdf",
+    "icet/icet class ppt/class ppts/icet pyqs.pdf",
+    "icet/icet class ppt/class ppts/icet_lec_ppts.pdf",
+    "icet/icet class ppt/reference papers/20161036.pdf",
+    "icet/icet class ppt/reference papers/20200852.pdf",
+    "icet/icet class ppt/reference papers/Ammonia.pdf",
+    "icet/icet class ppt/reference papers/lec1paper1.pdf",
+    "icet/icet class ppt/reference papers/lec1paper2.pdf",
+    "icet/icet class ppt/reference papers/lec2paper1.pdf",
+    "icet/icet class ppt/reference papers/lec2paper2.pdf",
+    "icet/icet class ppt/reference papers/Patent.pdf",
+    "icet/icet class ppt/reference papers/Technological-Framework.pdf",
+    "icet/icet class ppt/reference papers/What is CHME ten_achievements-1.pdf",
+    "icet/22CHE142 Assignment 3.md",
+    "icet/assignment pdv.md",
+    "icet/icet.md",
+    "icet/icet - lec 1 (5 jan).md",
+    "icet/icet - lec 2 (7 jan).md",
+    "icet/icet - lec 3 (13 jan).md",
+    "icet/icet - lec 4 (21 jan).md",
+    "icet/icet - lec 5 (28 jan).md",
+    "icet/icet - lec 7 (4 feb).md",
+    "icet/icet - lec 8 (11 march).md",
+    "icet/icet 23 feb.md",
+    "icet/icet cheat sheet.md",
+    "icet/icet most likely.md",
+    "icet/icet pyqs.md",
+    "icet/icet questions.md",
+    "icet/icet summary.md",
+    "icet/innovations in chemical engineering and tech (icet) index.md",
+    "im 1/drive material/Avinash Notes (Typed).pdf",
+    "im 1/drive material/pom1_drivenotes.pdf",
+    "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.13.jpeg",
+    "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.16.jpeg",
+    "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.22.jpeg",
+    "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.27.jpeg",
+    "im 1/im1 class material/Adobe Scan Feb 16, 2026.pdf",
+    "im 1/im1 class material/FOUR DRIVE MOTIVATION TEORY.pdf",
+    "im 1/im1 class material/graphic rating scale example.docx",
+    "im 1/im1 class material/HBR CASE STUDY_PERFORMANCE APPRAISAL.pdf",
+    "im 1/im1 class material/HBR_IMPRESSION.pdf",
+    "im 1/im1 class material/im1 midsem.pdf",
+    "im 1/im1 class material/Micro-and-Macro-environment-1.pdf",
+    "im 1/im1 class material/ORGANIZATION STRUCTURES(1).docx",
+    "im 1/im1 class material/PORTER'S VALUE CHAIN(1).docx",
+    "im 1/im1 class material/WhatsApp Image 2026-05-02 at 12.14.28.jpeg",
+    "im 1/im1 class material/WhatsApp Image 2026-05-02 at 12.14.29.jpeg",
+    "im 1/im1 class material/WhatsApp Image 2026-05-02 at 12.14.30.jpeg",
+    "im 1/papers/im1 '25 .pdf",
+    "im 1/papers/im1_pyq.pdf",
+    "im 1/papers/im1_pyq_behaviour.pdf",
+    "im 1/papers/mid26.pdf",
+    "im 1/im 1 (RaIy) lec 1 (10th jan online).md",
+    "im 1/im 1 (RaIy) lec 2 (12 jan).md",
+    "im 1/im 1 (RaIy) lec 5 (19 jan).md",
+    "im 1/im 1 (RaIy) lec 6 (23 feb).md",
+    "im 1/im1 last lec 26 march.md",
+    "im 1/im1 summary.md",
+    "im 1/im1endsem.pdf",
+    "im 2/im2 notes/finyce_Marketing 101 for beginners V2 - ICT Mumbai CCPCT - June 2020 (6).pptx",
+    "im 2/im2 notes/IM_POM2.pptx",
+    "im 2/im2 notes/IM_POM2-1.pdf",
+    "im 2/im2 notes/im2 endsem.pdf",
+    "im 2/im2 notes/INDUSTRIAL MANAGEMENT.pptx",
+    "im 2/im2 notes/INDUSTRIAL MANAGEMENT(1).pptx",
+    "im 2/im2 notes/Marketing for Engineers 101.pdf",
+    "im 2/im2 notes/operations summary.pdf",
+    "im 2/im2 notes/Operations_Management_notes_for_Chem._Engg._lecture.pdf",
+    "im 2/im2 notes/Operations_Management_notes_for_Chem._Engg._lecture.docx",
+    "im 2/im2 notes/pom2_25.pdf",
+    "im 2/im2 notes/Porter’s Five Forces.pptx",
+    "im 2/im 2 lec 1 (16 , 23 jan).md",
+    "im 2/im 2 lec 3,4 (6 feb, 13 feb).md",
+    "im 2/im 2 lec 5 (27 feb).md",
+    "im 2/im 2 lec 7 (16 march).md",
+    "im 2/im 2 lec 9 (27 mar).md",
+    "im 2/im 2 lec 11 (10 apr).md",
+    "im 2/im 2 revision notes.md",
+    "im 2/im2 endsem.md",
+    "im 2/im2notes.pdf",
+    "im 2/operations summary.md",
     "material tech/cat 1 revision.md",
     "material tech/corrosion.md",
     "material tech/failure of mat kvm (24 jan).md",
@@ -106,6 +354,9 @@
     "material tech/mat sci (3 feb).md",
     "material tech/material tech index.md",
     "material tech/material technology 27 dec.md",
+    "mmt/mmt lec 1 (intro).md",
+    "mmt/mmt lec 2 - fluid statics.md",
+    "mmt/mmt lec 3 - macroscopic balances.md",
     "Multiphase reaction engineering/20250120_141434.jpg",
     "Multiphase reaction engineering/design of a cstr and pfr.md",
     "Multiphase reaction engineering/GLS systems.md",
@@ -115,6 +366,7 @@
     "Multiphase reaction engineering/power consumption in a STR.md",
     "pre-midsems radiation curing/acrylated oligomers.md",
     "pre-midsems radiation curing/Pasted image 20251114134300.png",
+    "pre-midsems radiation curing/rd examples.md",
     "pre-midsems radiation curing/reactive diluents.md",
     "process control and dynamics/distillation column.md",
     "process control and dynamics/for pid controllers.md",
@@ -145,6 +397,15 @@
     "project economics/imp definitions.md",
     "project economics/Introduction to Chemical Project Economics.md",
     "project economics/where does my cash come from? what's its value.md",
+    "PSEE/lec19.pdf",
+    "PSEE/lec20.pdf",
+    "PSEE/lec30.pdf",
+    "PSEE/lec31.pdf",
+    "PSEE/lec32.pdf",
+    "PSEE/lec39.pdf",
+    "PSEE/lec40.pdf",
+    "PSEE/PSEE full portion.pdf",
+    "PSEE/PSEE-Week-12.pdf",
     "psee class material and ai/generate questions.md",
     "psee class material and ai/PS lec 28 feb.md",
     "psee class material and ai/PSEE cat 1.md",
@@ -165,22 +426,99 @@
     "refinery sci and tech/hydrocracker.md",
     "refinery sci and tech/project.md",
     "refinery sci and tech/refinery sci and tech index.md",
-    "Pasted image 20251121210018.png",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/293fd13dbca5a3e450ef.woff2",
-    "lib/fonts/085cb93e613ba3d40d2b.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "seminar/citations/article Zhu2024 title.bib",
+    "seminar/citations/paper1.bib",
+    "seminar/citations/paper2.bib",
+    "seminar/citations/paper3.bib",
+    "seminar/citations/paper4.bib",
+    "seminar/citations/paper5.bib",
+    "seminar/citations/paper6.bib",
+    "seminar/citations/paper7.bib",
+    "seminar/citations/paper8.bib",
+    "seminar/citations/paper9.bib",
+    "seminar/citations/paper10.bib",
+    "seminar/citations/paper11.bib",
+    "seminar/citations/paper12.bib",
+    "seminar/citations/paper13.bib",
+    "seminar/citations/paper14.bib",
+    "seminar/citations/paper15.bib",
+    "seminar/citations/paper16.bib",
+    "seminar/citations/paper17.bib",
+    "seminar/citations/paper18.bib",
+    "seminar/citations/paper19.bib",
+    "seminar/citations/paper20.bib",
+    "seminar/citations/paper21.bib",
+    "seminar/citations/paper22.bib",
+    "seminar/citations/paper23.bib",
+    "seminar/citations/paper24.bib",
+    "seminar/citations/paper25.bib",
+    "seminar/citations/paper26.bib",
+    "seminar/citations/paper27.bib",
+    "seminar/citations/paper28.bib",
+    "seminar/citations/paper29.bib",
+    "seminar/citations/paper30.bib",
+    "seminar/citations/paper31.bib",
+    "seminar/citations/paper32.bib",
+    "seminar/citations/paper33.bib",
+    "seminar/citations/paper34.bib",
+    "seminar/citations/paper35.bib",
+    "seminar/final_paper/figures/better fermi levels why.webp",
+    "seminar/final_paper/figures/fig1.png",
+    "seminar/final_paper/figures/fig2.jpg",
+    "seminar/final_paper/figures/fig3.jpg",
+    "seminar/final_paper/figures/fig4.jpg",
+    "seminar/final_paper/figures/fig5.png",
+    "seminar/final_paper/figures/fig6.png",
+    "seminar/final_paper/figures/figa.jpeg",
+    "seminar/final_paper/figures/figb.jpeg",
+    "seminar/final_paper/figures/figc.png",
+    "seminar/final_paper/figures/figd.png",
+    "seminar/final_paper/figures/fige.png",
+    "seminar/final_paper/figures/figi.jpeg",
+    "seminar/final_paper/figures/figure2.svg",
+    "seminar/final_paper/figures/ictlogo.jpg",
+    "seminar/final_paper/references.bib",
+    "seminar/final_paper/seminar_draft.toc",
+    "seminar/final_paper/seminar_draft.tex",
+    "seminar/final_paper/seminar_draft.pdf",
+    "seminar/final_paper/seminar_draft.out",
+    "seminar/final_paper/seminar_draft.lot",
+    "seminar/final_paper/seminar_draft.log",
+    "seminar/final_paper/seminar_draft.lof",
+    "seminar/final_paper/seminar_draft.blg",
+    "seminar/final_paper/seminar_draft.bbl",
+    "seminar/final_paper/seminar_draft.aux",
+    "seminar/final_paper/seminar_draft.synctex.gz",
+    "seminar/final_paper/texput.log",
+    "seminar/applications.pdf",
+    "seminar/bib combine in terminal.txt",
+    "seminar/controlling parameters.txt",
+    "seminar/DIRECT ELECTROSYNTHESIS OF METAL COMPLEXES  STATE OF THE ART.pdf",
+    "seminar/figure in latex begin.txt",
+    "seminar/Therese 2000 How is ed.txt",
+    "seminar/types of ed 1 galvanostatic.txt",
+    "spectro/lec8.pdf",
+    "spectro/lec16.pdf",
+    "24 feb psl.md",
+    "boilers.md",
+    "cheat sheet.md",
+    "hp_ppt.odp",
+    "im1 pyq.md",
+    "ipr.md",
+    "lle column",
+    "more notes.md",
+    "network digram example.canvas",
+    "optimization lab.md",
+    "Pasted image 20260326084551.png",
+    "Pasted image 20260326085904.png",
+    "spectroscopy lec 1 (22 jan).md",
     "lib/fonts/70cc7ff27245e82ad414.ttf",
     "lib/fonts/454577c22304619db035.ttf",
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/fonts/c504db5c06caaf7cdfba.woff2",
+    "lib/fonts/01dcbad1bac635f9c9cd.woff2",
     "lib/media/6155340132a851f6089e.svg",
     "lib/fonts/MathJax_Zero.woff",
     "lib/fonts/MathJax_Main-Regular.woff",
@@ -206,21 +544,13 @@
     "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "mainDependencies": [
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/293fd13dbca5a3e450ef.woff2",
-    "lib/fonts/085cb93e613ba3d40d2b.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
     "lib/fonts/70cc7ff27245e82ad414.ttf",
     "lib/fonts/454577c22304619db035.ttf",
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/fonts/c504db5c06caaf7cdfba.woff2",
+    "lib/fonts/01dcbad1bac635f9c9cd.woff2",
     "lib/media/6155340132a851f6089e.svg",
     "lib/fonts/MathJax_Zero.woff",
     "lib/fonts/MathJax_Main-Regular.woff",
@@ -247,697 +577,697 @@
   ],
   "fileInfo": {
     "ChemE-notes-/README.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 278,
       "exportedPath": "ChemE-notes-/README.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/ADVANCED OXIDATION PROCESSES.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 561,
       "exportedPath": "enivironmental engineering class notes/ADVANCED OXIDATION PROCESSES.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/air pollution control.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 3623,
       "exportedPath": "enivironmental engineering class notes/air pollution control.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/Air pollution Mitigation in Petroleum refineries.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 4492,
       "exportedPath": "enivironmental engineering class notes/Air pollution Mitigation in Petroleum refineries.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/ee class notes index.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 279,
       "exportedPath": "enivironmental engineering class notes/ee class notes index.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/EE papers to read.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 53,
       "exportedPath": "enivironmental engineering class notes/EE papers to read.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/particulate matter in air pollution mitigation.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 3548,
       "exportedPath": "enivironmental engineering class notes/particulate matter in air pollution mitigation.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/post, pre combustion cc.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 3577,
       "exportedPath": "enivironmental engineering class notes/post, pre combustion cc.html",
       "dependencies": []
     },
     "enivironmental engineering class notes/waste management and effluent control.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2705,
       "exportedPath": "enivironmental engineering class notes/waste management and effluent control.html",
       "dependencies": []
     },
     "environment engineering/chapter 1 introduction to air pollution.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 3298,
       "exportedPath": "environment engineering/chapter 1 introduction to air pollution.html",
       "dependencies": []
     },
     "environment engineering/chapter 2 solid waste management.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2809,
       "exportedPath": "environment engineering/chapter 2 solid waste management.html",
       "dependencies": []
     },
     "environment engineering/environmental sciences.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 412,
       "exportedPath": "environment engineering/environmental sciences.html",
       "dependencies": []
     },
     "equipment design/equipment design.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2649,
       "exportedPath": "equipment design/equipment design.html",
       "dependencies": []
     },
     "equipment design/equipment design (11 mar).md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2388,
       "exportedPath": "equipment design/equipment design (11 mar).html",
       "dependencies": []
     },
     "equipment design/equipment design index.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 115,
       "exportedPath": "equipment design/equipment design index.html",
       "dependencies": []
     },
     "equipment design/HEAT ex-changer design (equipment design).md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1578,
       "exportedPath": "equipment design/HEAT ex-changer design (equipment design).html",
       "dependencies": []
     },
     "files/1-s2.0-0270025587905963-main.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 557316,
       "exportedPath": "files/1-s2.0-0270025587905963-main.pdf",
       "dependencies": []
     },
     "files/1-s2.0-S2590182622000030-gr1.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 59981,
       "exportedPath": "files/1-s2.0-S2590182622000030-gr1.jpg",
       "dependencies": []
     },
     "files/3-s2.0-B9780128126639000023-f02-01-9780128126639.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 46405,
       "exportedPath": "files/3-s2.0-B9780128126639000023-f02-01-9780128126639.jpg",
       "dependencies": []
     },
     "files/3-s2.0-B9780128221419000108-f03-11-9780128221419.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 39385,
       "exportedPath": "files/3-s2.0-B9780128221419000108-f03-11-9780128221419.jpg",
       "dependencies": []
     },
     "files/7-2-dead-time-compensation-9-638-19985996.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 24557,
       "exportedPath": "files/7-2-dead-time-compensation-9-638-19985996.jpg",
       "dependencies": []
     },
     "files/2012-11-Beacon-English.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 326050,
       "exportedPath": "files/2012-11-Beacon-English.pdf",
       "dependencies": []
     },
     "files/2013-01-Beacon-English.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 193522,
       "exportedPath": "files/2013-01-Beacon-English.pdf",
       "dependencies": []
     },
     "files/50174.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 828758,
       "exportedPath": "files/50174.pdf",
       "dependencies": []
     },
     "files/20250118_104400.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 11223,
       "exportedPath": "files/20250118_104400.jpg",
       "dependencies": []
     },
     "files/block-flow-diagram-pfd-reformer-revolutionary-capture-1788474605.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 15575,
       "exportedPath": "files/block-flow-diagram-pfd-reformer-revolutionary-capture-1788474605.png",
       "dependencies": []
     },
     "files/CHL407 STUDY MATERIAL.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 3622837,
       "exportedPath": "files/CHL407 STUDY MATERIAL.pdf",
       "dependencies": []
     },
     "files/CO2 utillization .pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 5628168,
       "exportedPath": "files/CO2 utillization .pdf/CO2 utillization .pdf.pdf",
       "dependencies": []
     },
     "files/cpc.odg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 15810,
       "exportedPath": "files/cpc.odg",
       "dependencies": []
     },
     "files/crude-oil-distillation-unit_clip_image002.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 66615,
       "exportedPath": "files/crude-oil-distillation-unit_clip_image002.jpg",
       "dependencies": []
     },
     "files/EE-L1-to-L4.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 8861560,
       "exportedPath": "files/EE-L1-to-L4.pdf",
       "dependencies": []
     },
     "files/EE-L6-2025.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 4621673,
       "exportedPath": "files/EE-L6-2025.pdf",
       "dependencies": []
     },
     "files/EE-L7-2025.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 3803640,
       "exportedPath": "files/EE-L7-2025.pdf",
       "dependencies": []
     },
     "files/EOR as a solution.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1462562,
       "exportedPath": "files/EOR as a solution.pdf",
       "dependencies": []
     },
     "files/fatigue_SN_01.gif": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 14787,
       "exportedPath": "files/fatigue_SN_01.gif",
       "dependencies": []
     },
     "files/FCC.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 25150,
       "exportedPath": "files/FCC.png",
       "dependencies": []
     },
     "files/flare towers.pptx": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 947103,
       "exportedPath": "files/flare towers.pptx",
       "dependencies": []
     },
     "files/flare towers.odp": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 926840,
       "exportedPath": "files/flare towers.odp",
       "dependencies": []
     },
     "files/GKL_IFAC.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 476288,
       "exportedPath": "files/GKL_IFAC.pdf",
       "dependencies": []
     },
     "files/ht paper.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1122157,
       "exportedPath": "files/ht paper.pdf",
       "dependencies": []
     },
     "files/ht paper 2.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2059080,
       "exportedPath": "files/ht paper 2.pdf",
       "dependencies": []
     },
     "files/Lesson7Fig8.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 73020,
       "exportedPath": "files/Lesson7Fig8.png",
       "dependencies": []
     },
     "files/mixer 2o2i.ods": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 18372,
       "exportedPath": "files/mixer 2o2i.ods",
       "dependencies": []
     },
     "files/offshore-drilling-rigs.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 984438,
       "exportedPath": "files/offshore-drilling-rigs.png",
       "dependencies": []
     },
     "files/Pasted image.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 7091,
       "exportedPath": "files/Pasted image.png",
       "dependencies": []
     },
     "files/Pasted image 20250105224811.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 8848,
       "exportedPath": "files/Pasted image 20250105224811.jpg",
       "dependencies": []
     },
     "files/Pasted image 20250301123448.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 409689,
       "exportedPath": "files/Pasted image 20250301123448.png",
       "dependencies": []
     },
     "files/Pasted image 20250305091257.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 30001,
       "exportedPath": "files/Pasted image 20250305091257.png",
       "dependencies": []
     },
     "files/Pasted image 20250305091313.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 30001,
       "exportedPath": "files/Pasted image 20250305091313.png",
       "dependencies": []
     },
     "files/Pasted image 20250305092400.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 17407,
       "exportedPath": "files/Pasted image 20250305092400.png",
       "dependencies": []
     },
     "files/Pasted image 20250310090714.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 33762,
       "exportedPath": "files/Pasted image 20250310090714.png",
       "dependencies": []
     },
     "files/Pasted image 20250312093338.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 28450,
       "exportedPath": "files/Pasted image 20250312093338.png",
       "dependencies": []
     },
     "files/Pasted image 20250317112804.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 41575,
       "exportedPath": "files/Pasted image 20250317112804.png",
       "dependencies": []
     },
     "files/Pasted image 20250317113218.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 345045,
       "exportedPath": "files/Pasted image 20250317113218.png",
       "dependencies": []
     },
     "files/Pasted image 20250319092822.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 88937,
       "exportedPath": "files/Pasted image 20250319092822.png",
       "dependencies": []
     },
     "files/Pasted image 20250324090019.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 311356,
       "exportedPath": "files/Pasted image 20250324090019.png",
       "dependencies": []
     },
     "files/Pasted image 20250406131038.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1169267,
       "exportedPath": "files/Pasted image 20250406131038.png",
       "dependencies": []
     },
     "files/Schematic-diagram-of-the-pearlite-steel-microstructure.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 20417,
       "exportedPath": "files/Schematic-diagram-of-the-pearlite-steel-microstructure.png",
       "dependencies": []
     },
     "files/Screenshot_20250109_230143_YouTube.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 341216,
       "exportedPath": "files/Screenshot_20250109_230143_YouTube.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250109_230143_YouTube 1.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 0,
       "exportedPath": "files/Screenshot_20250109_230143_YouTube 1.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250109_230143_YouTube 2.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 341216,
       "exportedPath": "files/Screenshot_20250109_230143_YouTube 2.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250109_232118_YouTube.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 265266,
       "exportedPath": "files/Screenshot_20250109_232118_YouTube.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250114_140515_Samsung Notes.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 149645,
       "exportedPath": "files/Screenshot_20250114_140515_Samsung Notes.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250128_094748_Samsung Notes.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 139224,
       "exportedPath": "files/Screenshot_20250128_094748_Samsung Notes.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250203_085128_Google.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 152650,
       "exportedPath": "files/Screenshot_20250203_085128_Google.jpg",
       "dependencies": []
     },
     "files/Screenshot_20250207_001544_Obsidian.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 97078,
       "exportedPath": "files/Screenshot_20250207_001544_Obsidian.jpg",
       "dependencies": []
     },
     "files/stainless-steel-heat-exchanger-tube-sizes-1047408210.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 93426,
       "exportedPath": "files/stainless-steel-heat-exchanger-tube-sizes-1047408210.jpg",
       "dependencies": []
     },
     "files/the-flixborough-disaster-report-of-the-court-of-inquiry.pdf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 10739405,
       "exportedPath": "files/the-flixborough-disaster-report-of-the-court-of-inquiry.pdf",
       "dependencies": []
     },
     "heat transfer (extra simplified)/heat transfer.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2768,
       "exportedPath": "heat transfer (extra simplified)/heat transfer.html",
       "dependencies": []
     },
     "heat transfer (extra simplified)/heat transfer summary.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2311,
       "exportedPath": "heat transfer (extra simplified)/heat transfer summary.html",
       "dependencies": []
     },
     "heat transfer (extra simplified)/ht theory important.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 860,
       "exportedPath": "heat transfer (extra simplified)/ht theory important.html",
       "dependencies": []
     },
     "heat transfer (extra simplified)/reboilers.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2947,
       "exportedPath": "heat transfer (extra simplified)/reboilers.html",
       "dependencies": []
     },
     "material tech/cat 1 revision.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2488,
       "exportedPath": "material tech/cat 1 revision.html",
       "dependencies": []
     },
     "material tech/corrosion.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 8723,
       "exportedPath": "material tech/corrosion.html",
       "dependencies": []
     },
     "material tech/failure of mat kvm (24 jan).md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 810,
       "exportedPath": "material tech/failure of mat kvm (24 jan).html",
       "dependencies": []
     },
     "material tech/Fracture of materials.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2569,
       "exportedPath": "material tech/Fracture of materials.html",
       "dependencies": []
     },
     "material tech/Heat treatment of Steel.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 0,
       "exportedPath": "material tech/Heat treatment of Steel.html",
       "dependencies": []
     },
     "material tech/mat sci (3 feb).md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 634,
       "exportedPath": "material tech/mat sci (3 feb).html",
       "dependencies": []
     },
     "material tech/material tech index.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 171,
       "exportedPath": "material tech/material tech index.html",
       "dependencies": []
     },
     "material tech/material technology 27 dec.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1501,
       "exportedPath": "material tech/material technology 27 dec.html",
       "dependencies": []
     },
     "Multiphase reaction engineering/20250120_141434.jpg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 788021,
       "exportedPath": "Multiphase reaction engineering/20250120_141434.jpg",
       "dependencies": []
     },
     "Multiphase reaction engineering/design of a cstr and pfr.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2191,
       "exportedPath": "Multiphase reaction engineering/design of a cstr and pfr.html",
       "dependencies": []
     },
     "Multiphase reaction engineering/GLS systems.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 714,
       "exportedPath": "Multiphase reaction engineering/GLS systems.html",
       "dependencies": []
     },
     "Multiphase reaction engineering/how to size a reactor.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1771,
       "exportedPath": "Multiphase reaction engineering/how to size a reactor.html",
       "dependencies": []
     },
     "Multiphase reaction engineering/multi phase reaction engineering index.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 252,
       "exportedPath": "Multiphase reaction engineering/multi phase reaction engineering index.html",
       "dependencies": []
     },
     "Multiphase reaction engineering/Pasted image 20250314200935.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 165789,
       "exportedPath": "Multiphase reaction engineering/Pasted image 20250314200935.png",
       "dependencies": []
     },
     "Multiphase reaction engineering/power consumption in a STR.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1140,
       "exportedPath": "Multiphase reaction engineering/power consumption in a STR.html",
       "dependencies": []
     },
     "process control and dynamics/distillation column.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1908,
       "exportedPath": "process control and dynamics/distillation column.html",
       "dependencies": []
     },
     "process control and dynamics/for pid controllers.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 81,
       "exportedPath": "process control and dynamics/for pid controllers.html",
       "dependencies": []
     },
     "process control and dynamics/MIMO (multi input, multi output).md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 9481,
       "exportedPath": "process control and dynamics/MIMO (multi input, multi output).html",
       "dependencies": []
     },
     "process control and dynamics/process control index.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 354,
       "exportedPath": "process control and dynamics/process control index.html",
       "dependencies": []
     },
     "process control and dynamics/simulink.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 508,
       "exportedPath": "process control and dynamics/simulink.html",
       "dependencies": []
     },
     "process control and dynamics/smith predictor.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 3947,
       "exportedPath": "process control and dynamics/smith predictor.html",
       "dependencies": []
     },
     "process control and dynamics/vacuum sensors.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1058,
       "exportedPath": "process control and dynamics/vacuum sensors.html",
       "dependencies": []
     },
     "process safety/accidents.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 479,
       "exportedPath": "process safety/accidents.html",
       "dependencies": []
     },
     "process safety/ammonia leak, senegal.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 194,
       "exportedPath": "process safety/ammonia leak, senegal.html",
       "dependencies": []
     },
     "process safety/bhopal gas tradegy.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 3401,
       "exportedPath": "process safety/bhopal gas tradegy.html",
       "dependencies": []
     },
     "process safety/ConAgra natural gas leak.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1777,
       "exportedPath": "process safety/ConAgra natural gas leak.html",
       "dependencies": []
     },
     "process safety/deep water horizon oil rig breakage.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2568,
       "exportedPath": "process safety/deep water horizon oil rig breakage.html",
       "dependencies": []
     },
     "process safety/flixborough shut down diaster.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 3606,
       "exportedPath": "process safety/flixborough shut down diaster.html",
       "dependencies": []
     },
     "process safety/natural gas leak conneticut,2010.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 692,
       "exportedPath": "process safety/natural gas leak conneticut,2010.html",
       "dependencies": []
     },
     "process safety/Pasted image 20250303092319.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 32756,
       "exportedPath": "process safety/Pasted image 20250303092319.png",
       "dependencies": []
     },
     "process safety/pemex lpg leak mexico.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2113,
       "exportedPath": "process safety/pemex lpg leak mexico.html",
       "dependencies": []
     },
     "process safety/process hazard analysis techniques.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 4479,
       "exportedPath": "process safety/process hazard analysis techniques.html",
       "dependencies": []
     },
     "process safety/what is wrong with the following.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 206,
       "exportedPath": "process safety/what is wrong with the following.html",
       "dependencies": []
     },
     "refinery sci and tech/(refinery) process safety examples.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1015,
       "exportedPath": "refinery sci and tech/(refinery) process safety examples.html",
       "dependencies": []
     },
     "refinery sci and tech/catalytic reforming.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 5884,
       "exportedPath": "refinery sci and tech/catalytic reforming.html",
       "dependencies": []
     },
     "refinery sci and tech/CCR.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2978,
       "exportedPath": "refinery sci and tech/CCR.html",
       "dependencies": []
     },
     "refinery sci and tech/crude distillation column.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 4107,
       "exportedPath": "refinery sci and tech/crude distillation column.html",
       "dependencies": []
     },
     "refinery sci and tech/electrostatic crude desalter.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2509,
       "exportedPath": "refinery sci and tech/electrostatic crude desalter.html",
       "dependencies": []
     },
     "refinery sci and tech/FCC unit.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 8411,
       "exportedPath": "refinery sci and tech/FCC unit.html",
       "dependencies": []
     },
     "refinery sci and tech/flare towers.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 7277,
       "exportedPath": "refinery sci and tech/flare towers.html",
       "dependencies": []
     },
     "refinery sci and tech/fluidisation in FCC unit.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1876,
       "exportedPath": "refinery sci and tech/fluidisation in FCC unit.html",
       "dependencies": []
     },
     "refinery sci and tech/hydrocracker.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 5703,
       "exportedPath": "refinery sci and tech/hydrocracker.html",
       "dependencies": []
     },
     "refinery sci and tech/project.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 6335,
       "exportedPath": "refinery sci and tech/project.html",
       "dependencies": []
     },
     "refinery sci and tech/refinery sci and tech index.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 293,
       "exportedPath": "refinery sci and tech/refinery sci and tech index.html",
       "dependencies": []
@@ -991,435 +1321,429 @@
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
     "environment engineering/chapter 4 life cycle assessment.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 11627,
       "exportedPath": "environment engineering/chapter 4 life cycle assessment.html",
       "dependencies": []
     },
     "environment engineering/impacts of industry on the environment.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 6823,
       "exportedPath": "environment engineering/impacts of industry on the environment.html",
       "dependencies": []
     },
     "files/Pasted image 20250406132036.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 590305,
       "exportedPath": "files/Pasted image 20250406132036.png",
       "dependencies": []
     },
     "files/Pasted image 20250412215541.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 141589,
       "exportedPath": "files/Pasted image 20250412215541.png",
       "dependencies": []
     },
     "process safety/chemical safety class notes.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1257,
       "exportedPath": "process safety/chemical safety class notes.html",
       "dependencies": []
     },
     "process safety/fire safety class notes.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1189,
       "exportedPath": "process safety/fire safety class notes.html",
       "dependencies": []
     },
     "process safety/process safety index.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 137,
       "exportedPath": "process safety/process safety index.html",
       "dependencies": []
     },
     "psee class material and ai/generate questions.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1070,
       "exportedPath": "psee class material and ai/generate questions.html",
       "dependencies": []
     },
     "psee class material and ai/PS lec 28 feb.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2535,
       "exportedPath": "psee class material and ai/PS lec 28 feb.html",
       "dependencies": []
     },
     "psee class material and ai/PSEE cat 1.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2676,
       "exportedPath": "psee class material and ai/PSEE cat 1.html",
       "dependencies": []
     },
     "psee class material and ai/PSEE midsems.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1880,
       "exportedPath": "psee class material and ai/PSEE midsems.html",
       "dependencies": []
     },
     "psee class material and ai/TEST PRACTICE QUESTIONS.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2953,
       "exportedPath": "psee class material and ai/TEST PRACTICE QUESTIONS.html",
       "dependencies": []
     },
     "refinery sci and tech/Claus process.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 674,
       "exportedPath": "refinery sci and tech/Claus process.html",
       "dependencies": []
     },
     "cpde/3 dec - cpde.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1764,
       "exportedPath": "cpde/3 dec - cpde.html",
       "dependencies": []
     },
     "cpde/12,14 nov - cpde.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 5888,
       "exportedPath": "cpde/12,14 nov - cpde.html",
       "dependencies": []
     },
     "cpde/14 nov - cpde.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1924,
       "exportedPath": "cpde/14 nov - cpde.html",
       "dependencies": []
     },
     "cpde/21,24 nov - cpde.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 5914,
       "exportedPath": "cpde/21,24 nov - cpde.html",
       "dependencies": []
     },
     "cpde/26, 28 nov - cpe lec.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 3088,
       "exportedPath": "cpde/26, 28 nov - cpe lec.html",
       "dependencies": []
     },
     "cpde/acrylic acid manufacturing.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2753,
       "exportedPath": "cpde/acrylic acid manufacturing.html",
       "dependencies": []
     },
     "cpde/basic assumptions for elementary calculations.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 6697,
       "exportedPath": "cpde/basic assumptions for elementary calculations.html",
       "dependencies": []
     },
     "cpde/cpde 17 sep lec.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 6308,
       "exportedPath": "cpde/cpde 17 sep lec.html",
       "dependencies": []
     },
     "cpde/cpde 24 sept lec.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2050,
       "exportedPath": "cpde/cpde 24 sept lec.html",
       "dependencies": []
     },
     "cpde/cpde index.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 0,
       "exportedPath": "cpde/cpde index.html",
       "dependencies": []
     },
     "cpde/Introduction to Chemical process engineering and development (hereon CPDE).md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1394,
       "exportedPath": "cpde/Introduction to Chemical process engineering and development (hereon CPDE).html",
       "dependencies": []
     },
     "files/Pasted image 20251106183706.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 130883,
       "exportedPath": "files/Pasted image 20251106183706.png",
       "dependencies": []
     },
     "files/Pasted image 20251112135942.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 15699,
       "exportedPath": "files/Pasted image 20251112135942.png",
       "dependencies": []
     },
     "files/Pasted image 20251114134221.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 10179,
       "exportedPath": "files/Pasted image 20251114134221.png",
       "dependencies": []
     },
     "files/Pasted image 20251114134328.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 15831,
       "exportedPath": "files/Pasted image 20251114134328.png",
       "dependencies": []
     },
     "files/Pasted image 20251114134411.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 17770,
       "exportedPath": "files/Pasted image 20251114134411.png",
       "dependencies": []
     },
     "pre-midsems radiation curing/acrylated oligomers.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 1924,
       "exportedPath": "pre-midsems radiation curing/acrylated oligomers.html",
       "dependencies": []
     },
     "pre-midsems radiation curing/Pasted image 20251114134300.png": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 12334,
       "exportedPath": "pre-midsems radiation curing/Pasted image 20251114134300.png",
       "dependencies": []
     },
     "pre-midsems radiation curing/reactive diluents.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 7211,
       "exportedPath": "pre-midsems radiation curing/reactive diluents.html",
       "dependencies": []
     },
     "project economics/3,4, 7 nov - cpe lec.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 13208,
       "exportedPath": "project economics/3,4, 7 nov - cpe lec.html",
       "dependencies": []
     },
     "project economics/Chem Project Eco index.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 868,
       "exportedPath": "project economics/Chem Project Eco index.html",
       "dependencies": []
     },
     "project economics/cpe lec.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 10140,
       "exportedPath": "project economics/cpe lec.html",
       "dependencies": []
     },
     "project economics/cpe pyqs gpt aah.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 6035,
       "exportedPath": "project economics/cpe pyqs gpt aah.html",
       "dependencies": []
     },
     "project economics/daily cash flow digram.canvas": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 4826,
       "exportedPath": "project economics/daily cash flow digram.html",
       "dependencies": []
     },
     "project economics/imp definitions.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 99,
       "exportedPath": "project economics/imp definitions.html",
       "dependencies": []
     },
     "project economics/Introduction to Chemical Project Economics.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 2321,
       "exportedPath": "project economics/Introduction to Chemical Project Economics.html",
       "dependencies": []
     },
     "project economics/where does my cash come from? what's its value.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 5308,
       "exportedPath": "project economics/where does my cash come from/where does my cash come from.html",
       "dependencies": []
     },
     "psst/psst 3nov.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 910,
       "exportedPath": "psst/psst 3nov.html",
       "dependencies": []
     },
     "psst/psst 12 nov.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 229,
       "exportedPath": "psst/psst 12 nov.html",
       "dependencies": []
     },
     "psst/psst lec 17 sept.md": {
-      "modifiedTime": 1765898205163,
+      "modifiedTime": 1787389716781,
       "sourceSize": 215,
       "exportedPath": "psst/psst lec 17 sept.html",
-      "dependencies": []
-    },
-    "Pasted image 20251121210018.png": {
-      "modifiedTime": 1765898205163,
-      "sourceSize": 80304,
-      "exportedPath": "Pasted image 20251121210018.png",
       "dependencies": []
     },
     "lib/fonts/293fd13dbca5a3e450ef.woff2": {
@@ -1432,6 +1756,2100 @@
       "modifiedTime": 1765898205163,
       "sourceSize": 112184,
       "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
+      "dependencies": []
+    },
+    "cads/cads lec 1.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2376,
+      "exportedPath": "cads/cads lec 1.html",
+      "dependencies": []
+    },
+    "cads/cads lec 2.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 860,
+      "exportedPath": "cads/cads lec 2.html",
+      "dependencies": []
+    },
+    "cads/cads lec 3.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1158,
+      "exportedPath": "cads/cads lec 3.html",
+      "dependencies": []
+    },
+    "cads/cads lec 4.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2329,
+      "exportedPath": "cads/cads lec 4.html",
+      "dependencies": []
+    },
+    "cads/cads lec 5.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2204,
+      "exportedPath": "cads/cads lec 5.html",
+      "dependencies": []
+    },
+    "cads/computer aided decision systems CADS (nptel) index.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 0,
+      "exportedPath": "cads/computer aided decision systems CADS (nptel) index.html",
+      "dependencies": []
+    },
+    "cads- swayam notes/quiz/quiz1-12.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2181988,
+      "exportedPath": "cads- swayam notes/quiz/quiz1-12.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/cads all notes.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 40147149,
+      "exportedPath": "cads- swayam notes/cads all notes.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/php and iot.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 219875,
+      "exportedPath": "cads- swayam notes/php and iot.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/questions.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 121848,
+      "exportedPath": "cads- swayam notes/questions.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/sql.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 97243,
+      "exportedPath": "cads- swayam notes/sql.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/summary 4-6.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 263258,
+      "exportedPath": "cads- swayam notes/summary 4-6.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week 1-6.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 214086,
+      "exportedPath": "cads- swayam notes/week 1-6.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week 7-12.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 188944,
+      "exportedPath": "cads- swayam notes/week 7-12.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week1.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2736532,
+      "exportedPath": "cads- swayam notes/week1.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week2.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2800381,
+      "exportedPath": "cads- swayam notes/week2.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week3.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 3659794,
+      "exportedPath": "cads- swayam notes/week3.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week4.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 3989324,
+      "exportedPath": "cads- swayam notes/week4.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week5.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1593687,
+      "exportedPath": "cads- swayam notes/week5.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week6.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1998680,
+      "exportedPath": "cads- swayam notes/week6.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week7.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2836219,
+      "exportedPath": "cads- swayam notes/week7.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week8.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2419415,
+      "exportedPath": "cads- swayam notes/week8.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week9.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2311120,
+      "exportedPath": "cads- swayam notes/week9.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week10.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 3537140,
+      "exportedPath": "cads- swayam notes/week10.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week11.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 7118077,
+      "exportedPath": "cads- swayam notes/week11.pdf",
+      "dependencies": []
+    },
+    "cads- swayam notes/week12.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 5138521,
+      "exportedPath": "cads- swayam notes/week12.pdf",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.22.40.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 76931,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.22.40.jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.09.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 122534,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.09.jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.09 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 136946,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.09 (1).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.09 (2).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 145227,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.09 (2).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 71160,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10.jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 139962,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (1).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (2).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 127563,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (2).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (3).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 140211,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (3).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (4).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 143456,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (4).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (5).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 147442,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (5).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (6).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 161616,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (6).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (7).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 80803,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (7).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (8).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 118296,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.10 (8).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.32.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 105802,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.32.jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.32 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 125362,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.32 (1).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.33.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 110719,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.33.jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.33 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 109457,
+      "exportedPath": "dae/dae notes/dae notes (rhea)/WhatsApp Image 2026-03-04 at 19.23.33 (1).jpeg",
+      "dependencies": []
+    },
+    "dae/dae notes/dae problems/dae_numericals.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 474547,
+      "exportedPath": "dae/dae notes/dae problems/dae_numericals.pdf",
+      "dependencies": []
+    },
+    "dae/dae notes/dae problems/dae_solutions.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 7082,
+      "exportedPath": "dae/dae notes/dae problems/dae_solutions.pdf",
+      "dependencies": []
+    },
+    "dae/dae notes/dae problems/post_mids_problems.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 388784,
+      "exportedPath": "dae/dae notes/dae problems/post_mids_problems.pdf",
+      "dependencies": []
+    },
+    "dae/dae notes/midsem.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1675662,
+      "exportedPath": "dae/dae notes/midsem.pdf",
+      "dependencies": []
+    },
+    "dae/dae notes/post_mids_notes.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1454817,
+      "exportedPath": "dae/dae notes/post_mids_notes.pdf",
+      "dependencies": []
+    },
+    "dae/dae - lec 2 (12 jan).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2392,
+      "exportedPath": "dae/dae - lec 2 (12 jan).html",
+      "dependencies": []
+    },
+    "dae/dae 16 march.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 937,
+      "exportedPath": "dae/dae 16 march.html",
+      "dependencies": []
+    },
+    "dae/dae cheat sheet.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 4245,
+      "exportedPath": "dae/dae cheat sheet.html",
+      "dependencies": []
+    },
+    "entrepreneurship notes /bnt lec 17 apr.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1449,
+      "exportedPath": "entrepreneurship notes /bnt lec 17 apr.html",
+      "dependencies": []
+    },
+    "entrepreneurship notes /entrepreneurship lec 1,2 - 23,30 jan.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1146,
+      "exportedPath": "entrepreneurship notes /entrepreneurship lec 1,2 - 23,30 jan.html",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.38.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 79004,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.38.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.39.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 50099,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.39.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.40.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 158918,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.40.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.40 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 79004,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.40 (1).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.41.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 101454,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.41.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.44.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 45159,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.44.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.45.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 81659,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.45.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.47.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 155695,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.47.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.50.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 73544,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.50.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.53.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 46424,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.53.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.54.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 164470,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.54.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.54 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 105331,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.54 (1).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.55.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 132704,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.55.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.55 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 59629,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.55 (1).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.56.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 157593,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.56.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.57.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 85286,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.57.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.58.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 98570,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.58.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.59.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 82796,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.22.59.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.00.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 57982,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.00.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.00 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 118219,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.00 (1).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.01.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 23728,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.01.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.01 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 116115,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.01 (1).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.01 (2).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 140452,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.01 (2).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.02.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 78470,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.02.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.02 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 151784,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.02 (1).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.02 (2).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 102710,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.02 (2).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.03.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 107187,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.03.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.03 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 186461,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.03 (1).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.03 (2).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 99793,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.03 (2).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.04.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 115094,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.04.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.04 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 125710,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.04 (1).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.05.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 165434,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.05.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.05 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 101257,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.05 (1).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.05 (2).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 172795,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.05 (2).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.06.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 141180,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.06.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.06 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 84088,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.06 (1).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.07.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 45877,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.07.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.07 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 208563,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.07 (1).jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.08.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 143233,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.08.jpeg",
+      "dependencies": []
+    },
+    "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.08 (1).jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 216408,
+      "exportedPath": "entrepreneurship notes /WhatsApp Image 2026-03-01 at 21.23.08 (1).jpeg",
+      "dependencies": []
+    },
+    "files/Pasted image 20251121210018.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 80304,
+      "exportedPath": "files/Pasted image 20251121210018.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260102201332.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 16594,
+      "exportedPath": "files/Pasted image 20260102201332.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260102203144.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 48375,
+      "exportedPath": "files/Pasted image 20260102203144.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260105111859.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 153322,
+      "exportedPath": "files/Pasted image 20260105111859.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260107111051.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 137854,
+      "exportedPath": "files/Pasted image 20260107111051.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260107114658.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 29824,
+      "exportedPath": "files/Pasted image 20260107114658.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260110140947.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 111685,
+      "exportedPath": "files/Pasted image 20260110140947.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260112093330.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 87082,
+      "exportedPath": "files/Pasted image 20260112093330.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260113204747.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 247912,
+      "exportedPath": "files/Pasted image 20260113204747.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260114142143.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 98049,
+      "exportedPath": "files/Pasted image 20260114142143.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260114142415.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 113005,
+      "exportedPath": "files/Pasted image 20260114142415.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260121105252.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 90497,
+      "exportedPath": "files/Pasted image 20260121105252.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260121105615.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 52532,
+      "exportedPath": "files/Pasted image 20260121105615.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260121110028.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 52532,
+      "exportedPath": "files/Pasted image 20260121110028.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260204110849.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 52964,
+      "exportedPath": "files/Pasted image 20260204110849.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260302232907.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 29530,
+      "exportedPath": "files/Pasted image 20260302232907.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20260302232929.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 29530,
+      "exportedPath": "files/Pasted image 20260302232929.png",
+      "dependencies": []
+    },
+    "homepaper references/citations bib/patent citation.txt": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 202,
+      "exportedPath": "homepaper references/citations bib/patent citation.txt",
+      "dependencies": []
+    },
+    "homepaper references/citations bib/references.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 5885,
+      "exportedPath": "homepaper references/citations bib/references.bib",
+      "dependencies": []
+    },
+    "homepaper references/final paper/figures/ictlogo.jpg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 46136,
+      "exportedPath": "homepaper references/final paper/figures/ictlogo.jpg",
+      "dependencies": []
+    },
+    "homepaper references/final paper/figures/screenshot001.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 254992,
+      "exportedPath": "homepaper references/final paper/figures/screenshot001.png",
+      "dependencies": []
+    },
+    "homepaper references/final paper/22CHE142Homepaper.toc": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1377,
+      "exportedPath": "homepaper references/final paper/22CHE142Homepaper.toc",
+      "dependencies": []
+    },
+    "homepaper references/final paper/22CHE142Homepaper.tex": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 16107,
+      "exportedPath": "homepaper references/final paper/22CHE142Homepaper.tex",
+      "dependencies": []
+    },
+    "homepaper references/final paper/22CHE142Homepaper.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 500728,
+      "exportedPath": "homepaper references/final paper/22CHE142Homepaper.pdf",
+      "dependencies": []
+    },
+    "homepaper references/final paper/22CHE142Homepaper.log": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 32219,
+      "exportedPath": "homepaper references/final paper/22CHE142Homepaper.log",
+      "dependencies": []
+    },
+    "homepaper references/final paper/22CHE142Homepaper.lof": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 177,
+      "exportedPath": "homepaper references/final paper/22CHE142Homepaper.lof",
+      "dependencies": []
+    },
+    "homepaper references/final paper/22CHE142Homepaper.blg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1803,
+      "exportedPath": "homepaper references/final paper/22CHE142Homepaper.blg",
+      "dependencies": []
+    },
+    "homepaper references/final paper/22CHE142Homepaper.bbl": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 49,
+      "exportedPath": "homepaper references/final paper/22CHE142Homepaper.bbl",
+      "dependencies": []
+    },
+    "homepaper references/final paper/22CHE142Homepaper.aux": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 3924,
+      "exportedPath": "homepaper references/final paper/22CHE142Homepaper.aux",
+      "dependencies": []
+    },
+    "homepaper references/final paper/22CHE142Homepaper.synctex.gz": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 55000,
+      "exportedPath": "homepaper references/final paper/22CHE142Homepaper.synctex.gz",
+      "dependencies": []
+    },
+    "homepaper references/hp final/22CHE142HPsub.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1891438,
+      "exportedPath": "homepaper references/hp final/22CHE142HPsub.pdf",
+      "dependencies": []
+    },
+    "homepaper references/hp final/annexure1.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 41030,
+      "exportedPath": "homepaper references/hp final/annexure1.pdf",
+      "dependencies": []
+    },
+    "homepaper references/hp final/annexure2.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 124964,
+      "exportedPath": "homepaper references/hp final/annexure2.pdf",
+      "dependencies": []
+    },
+    "homepaper references/hp final/annexure3.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 79672,
+      "exportedPath": "homepaper references/hp final/annexure3.pdf",
+      "dependencies": []
+    },
+    "homepaper references/hp final/annexure4.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 35512,
+      "exportedPath": "homepaper references/hp final/annexure4.pdf",
+      "dependencies": []
+    },
+    "homepaper references/hp final/bt-6_bulletin_715.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 380603,
+      "exportedPath": "homepaper references/hp final/bt-6_bulletin_715.pdf",
+      "dependencies": []
+    },
+    "homepaper references/hp final/citations manager.ods": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 30375,
+      "exportedPath": "homepaper references/hp final/citations manager.ods",
+      "dependencies": []
+    },
+    "homepaper references/hp final/costing.ods": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 509837,
+      "exportedPath": "homepaper references/hp final/costing.ods",
+      "dependencies": []
+    },
+    "homepaper references/hp final/database of sorts (1).xlsx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 71208,
+      "exportedPath": "homepaper references/hp final/database of sorts (1).xlsx",
+      "dependencies": []
+    },
+    "homepaper references/hp final/LLE_Column_Design_v2.xlsx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 23422,
+      "exportedPath": "homepaper references/hp final/LLE_Column_Design_v2.xlsx",
+      "dependencies": []
+    },
+    "homepaper references/hp final/MAA_Distillation_Column_Sizing(1).xlsx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 19361,
+      "exportedPath": "homepaper references/hp final/MAA_Distillation_Column_Sizing(1).xlsx",
+      "dependencies": []
+    },
+    "homepaper references/hp final/mass balance final.xlsx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 147383,
+      "exportedPath": "homepaper references/hp final/mass balance final.xlsx",
+      "dependencies": []
+    },
+    "homepaper references/hp final/Pasted image (2).png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 450673,
+      "exportedPath": "homepaper references/hp final/Pasted image (2).png",
+      "dependencies": []
+    },
+    "homepaper references/hp final/pfd.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 256311,
+      "exportedPath": "homepaper references/hp final/pfd.pdf",
+      "dependencies": []
+    },
+    "homepaper references/hp final/pfd_maa1_final.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 24534,
+      "exportedPath": "homepaper references/hp final/pfd_maa1_final.pdf",
+      "dependencies": []
+    },
+    "homepaper references/hp final/process design.ods": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1104645,
+      "exportedPath": "homepaper references/hp final/process design.ods",
+      "dependencies": []
+    },
+    "homepaper references/sims/lle_maa.dwxmz": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 12799,
+      "exportedPath": "homepaper references/sims/lle_maa.dwxmz",
+      "dependencies": []
+    },
+    "homepaper references/2-HYDROXYETHYL-METHACRYLATE-2-HEMA.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 51980,
+      "exportedPath": "homepaper references/2-HYDROXYETHYL-METHACRYLATE-2-HEMA.pdf",
+      "dependencies": []
+    },
+    "homepaper references/22CHE142HPSub4.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 263330,
+      "exportedPath": "homepaper references/22CHE142HPSub4.pdf",
+      "dependencies": []
+    },
+    "homepaper references/CIR HEMA.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 159648,
+      "exportedPath": "homepaper references/CIR HEMA.pdf",
+      "dependencies": []
+    },
+    "homepaper references/costing.ods": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 489569,
+      "exportedPath": "homepaper references/costing.ods",
+      "dependencies": []
+    },
+    "homepaper references/database of sorts.ods": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 14941,
+      "exportedPath": "homepaper references/database of sorts.ods",
+      "dependencies": []
+    },
+    "homepaper references/HEMA msds.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 188700,
+      "exportedPath": "homepaper references/HEMA msds.pdf",
+      "dependencies": []
+    },
+    "homepaper references/HEMA synthesis.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1537242,
+      "exportedPath": "homepaper references/HEMA synthesis.pdf",
+      "dependencies": []
+    },
+    "homepaper references/HEMA use.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1077952,
+      "exportedPath": "homepaper references/HEMA use.pdf",
+      "dependencies": []
+    },
+    "homepaper references/kinetics.ods": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 87068,
+      "exportedPath": "homepaper references/kinetics.ods",
+      "dependencies": []
+    },
+    "homepaper references/maa_pfd.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 15410,
+      "exportedPath": "homepaper references/maa_pfd.png",
+      "dependencies": []
+    },
+    "homepaper references/maa_pfd.dia": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 304208,
+      "exportedPath": "homepaper references/maa_pfd.dia",
+      "dependencies": []
+    },
+    "homepaper references/mass balance.ods": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 34116,
+      "exportedPath": "homepaper references/mass balance.ods",
+      "dependencies": []
+    },
+    "homepaper references/mass balance c4.ods": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 24557,
+      "exportedPath": "homepaper references/mass balance c4.ods",
+      "dependencies": []
+    },
+    "homepaper references/METHACRYLIC-ACID--99-5---1LT.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 59859,
+      "exportedPath": "homepaper references/METHACRYLIC-ACID--99-5---1LT.pdf",
+      "dependencies": []
+    },
+    "homepaper references/reaction equlibria.ods": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 70435,
+      "exportedPath": "homepaper references/reaction equlibria.ods",
+      "dependencies": []
+    },
+    "homepaper references/reactions occuring.txt": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 412,
+      "exportedPath": "homepaper references/reactions occuring.txt",
+      "dependencies": []
+    },
+    "homepaper references/synthesis of hema based hydrogel.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 637214,
+      "exportedPath": "homepaper references/synthesis of hema based hydrogel.pdf",
+      "dependencies": []
+    },
+    "homepaper references/Untitled 1.ods": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 16325,
+      "exportedPath": "homepaper references/Untitled 1.ods",
+      "dependencies": []
+    },
+    "homepaper references/US5153162.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1947648,
+      "exportedPath": "homepaper references/US5153162.pdf",
+      "dependencies": []
+    },
+    "homepaper references/US8426637.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2267365,
+      "exportedPath": "homepaper references/US8426637.pdf",
+      "dependencies": []
+    },
+    "hp4/22CHE142HPSub3.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1224950,
+      "exportedPath": "hp4/22CHE142HPSub3.pdf",
+      "dependencies": []
+    },
+    "hp4/22CHE142HPSub4.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1683189,
+      "exportedPath": "hp4/22CHE142HPSub4.pdf",
+      "dependencies": []
+    },
+    "hp4/hp41.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1480760,
+      "exportedPath": "hp4/hp41.pdf",
+      "dependencies": []
+    },
+    "hp4/hp42.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 74966,
+      "exportedPath": "hp4/hp42.pdf",
+      "dependencies": []
+    },
+    "hp4/hp43.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 116042,
+      "exportedPath": "hp4/hp43.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/class ppts/BChem-ICET-CAT1-2024.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 310006,
+      "exportedPath": "icet/icet class ppt/class ppts/BChem-ICET-CAT1-2024.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/class ppts/DOC-20260209-WA0010..pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 608095,
+      "exportedPath": "icet/icet class ppt/class ppts/DOC-20260209-WA0010..pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/class ppts/icet '25 .pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 918532,
+      "exportedPath": "icet/icet class ppt/class ppts/icet '25 .pdf/icet '25 .pdf.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/class ppts/icet pyqs.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 108831,
+      "exportedPath": "icet/icet class ppt/class ppts/icet pyqs.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/class ppts/icet_lec_ppts.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 14865808,
+      "exportedPath": "icet/icet class ppt/class ppts/icet_lec_ppts.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/reference papers/20161036.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 468584,
+      "exportedPath": "icet/icet class ppt/reference papers/20161036.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/reference papers/20200852.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 261299,
+      "exportedPath": "icet/icet class ppt/reference papers/20200852.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/reference papers/Ammonia.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 577550,
+      "exportedPath": "icet/icet class ppt/reference papers/Ammonia.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/reference papers/lec1paper1.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 300390,
+      "exportedPath": "icet/icet class ppt/reference papers/lec1paper1.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/reference papers/lec1paper2.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 261299,
+      "exportedPath": "icet/icet class ppt/reference papers/lec1paper2.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/reference papers/lec2paper1.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 577550,
+      "exportedPath": "icet/icet class ppt/reference papers/lec2paper1.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/reference papers/lec2paper2.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 7348452,
+      "exportedPath": "icet/icet class ppt/reference papers/lec2paper2.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/reference papers/Patent.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 252228,
+      "exportedPath": "icet/icet class ppt/reference papers/Patent.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/reference papers/Technological-Framework.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 116110,
+      "exportedPath": "icet/icet class ppt/reference papers/Technological-Framework.pdf",
+      "dependencies": []
+    },
+    "icet/icet class ppt/reference papers/What is CHME ten_achievements-1.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2071068,
+      "exportedPath": "icet/icet class ppt/reference papers/What is CHME ten_achievements-1.pdf",
+      "dependencies": []
+    },
+    "icet/22CHE142 Assignment 3.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 14882,
+      "exportedPath": "icet/22CHE142 Assignment 3.html",
+      "dependencies": []
+    },
+    "icet/assignment pdv.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 151,
+      "exportedPath": "icet/assignment pdv.html",
+      "dependencies": []
+    },
+    "icet/icet.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 442,
+      "exportedPath": "icet/icet.html",
+      "dependencies": []
+    },
+    "icet/icet - lec 1 (5 jan).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2747,
+      "exportedPath": "icet/icet - lec 1 (5 jan).html",
+      "dependencies": []
+    },
+    "icet/icet - lec 2 (7 jan).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 3778,
+      "exportedPath": "icet/icet - lec 2 (7 jan).html",
+      "dependencies": []
+    },
+    "icet/icet - lec 3 (13 jan).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2402,
+      "exportedPath": "icet/icet - lec 3 (13 jan).html",
+      "dependencies": []
+    },
+    "icet/icet - lec 4 (21 jan).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1433,
+      "exportedPath": "icet/icet - lec 4 (21 jan).html",
+      "dependencies": []
+    },
+    "icet/icet - lec 5 (28 jan).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 668,
+      "exportedPath": "icet/icet - lec 5 (28 jan).html",
+      "dependencies": []
+    },
+    "icet/icet - lec 7 (4 feb).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1306,
+      "exportedPath": "icet/icet - lec 7 (4 feb).html",
+      "dependencies": []
+    },
+    "icet/icet - lec 8 (11 march).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 0,
+      "exportedPath": "icet/icet - lec 8 (11 march).html",
+      "dependencies": []
+    },
+    "icet/icet 23 feb.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 62,
+      "exportedPath": "icet/icet 23 feb.html",
+      "dependencies": []
+    },
+    "icet/icet cheat sheet.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 7717,
+      "exportedPath": "icet/icet cheat sheet.html",
+      "dependencies": []
+    },
+    "icet/icet most likely.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 6859,
+      "exportedPath": "icet/icet most likely.html",
+      "dependencies": []
+    },
+    "icet/icet pyqs.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 11777,
+      "exportedPath": "icet/icet pyqs.html",
+      "dependencies": []
+    },
+    "icet/icet questions.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 7576,
+      "exportedPath": "icet/icet questions.html",
+      "dependencies": []
+    },
+    "icet/icet summary.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 7082,
+      "exportedPath": "icet/icet summary.html",
+      "dependencies": []
+    },
+    "icet/innovations in chemical engineering and tech (icet) index.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 25,
+      "exportedPath": "icet/innovations in chemical engineering and tech (icet) index.html",
+      "dependencies": []
+    },
+    "im 1/drive material/Avinash Notes (Typed).pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 14918026,
+      "exportedPath": "im 1/drive material/Avinash Notes (Typed).pdf",
+      "dependencies": []
+    },
+    "im 1/drive material/pom1_drivenotes.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 35499512,
+      "exportedPath": "im 1/drive material/pom1_drivenotes.pdf",
+      "dependencies": []
+    },
+    "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.13.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 161656,
+      "exportedPath": "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.13.jpeg",
+      "dependencies": []
+    },
+    "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.16.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 173757,
+      "exportedPath": "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.16.jpeg",
+      "dependencies": []
+    },
+    "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.22.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 179257,
+      "exportedPath": "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.22.jpeg",
+      "dependencies": []
+    },
+    "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.27.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 167163,
+      "exportedPath": "im 1/im1 class material/tuckman/WhatsApp Image 2026-05-05 at 09.56.27.jpeg",
+      "dependencies": []
+    },
+    "im 1/im1 class material/Adobe Scan Feb 16, 2026.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 5856712,
+      "exportedPath": "im 1/im1 class material/Adobe Scan Feb 16, 2026.pdf",
+      "dependencies": []
+    },
+    "im 1/im1 class material/FOUR DRIVE MOTIVATION TEORY.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 292158,
+      "exportedPath": "im 1/im1 class material/FOUR DRIVE MOTIVATION TEORY.pdf",
+      "dependencies": []
+    },
+    "im 1/im1 class material/graphic rating scale example.docx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 9261,
+      "exportedPath": "im 1/im1 class material/graphic rating scale example.docx",
+      "dependencies": []
+    },
+    "im 1/im1 class material/HBR CASE STUDY_PERFORMANCE APPRAISAL.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1675109,
+      "exportedPath": "im 1/im1 class material/HBR CASE STUDY_PERFORMANCE APPRAISAL.pdf",
+      "dependencies": []
+    },
+    "im 1/im1 class material/HBR_IMPRESSION.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 160636,
+      "exportedPath": "im 1/im1 class material/HBR_IMPRESSION.pdf",
+      "dependencies": []
+    },
+    "im 1/im1 class material/im1 midsem.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 7582725,
+      "exportedPath": "im 1/im1 class material/im1 midsem.pdf",
+      "dependencies": []
+    },
+    "im 1/im1 class material/Micro-and-Macro-environment-1.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 810178,
+      "exportedPath": "im 1/im1 class material/Micro-and-Macro-environment-1.pdf",
+      "dependencies": []
+    },
+    "im 1/im1 class material/ORGANIZATION STRUCTURES(1).docx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 420287,
+      "exportedPath": "im 1/im1 class material/ORGANIZATION STRUCTURES(1).docx",
+      "dependencies": []
+    },
+    "im 1/im1 class material/PORTER'S VALUE CHAIN(1).docx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 117251,
+      "exportedPath": "im 1/im1 class material/PORTER'S VALUE CHAIN(1).docx",
+      "dependencies": []
+    },
+    "im 1/im1 class material/WhatsApp Image 2026-05-02 at 12.14.28.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 82735,
+      "exportedPath": "im 1/im1 class material/WhatsApp Image 2026-05-02 at 12.14.28.jpeg",
+      "dependencies": []
+    },
+    "im 1/im1 class material/WhatsApp Image 2026-05-02 at 12.14.29.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 92439,
+      "exportedPath": "im 1/im1 class material/WhatsApp Image 2026-05-02 at 12.14.29.jpeg",
+      "dependencies": []
+    },
+    "im 1/im1 class material/WhatsApp Image 2026-05-02 at 12.14.30.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 23944,
+      "exportedPath": "im 1/im1 class material/WhatsApp Image 2026-05-02 at 12.14.30.jpeg",
+      "dependencies": []
+    },
+    "im 1/papers/im1 '25 .pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1185327,
+      "exportedPath": "im 1/papers/im1 '25 .pdf/im1 '25 .pdf.pdf",
+      "dependencies": []
+    },
+    "im 1/papers/im1_pyq.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 595464,
+      "exportedPath": "im 1/papers/im1_pyq.pdf",
+      "dependencies": []
+    },
+    "im 1/papers/im1_pyq_behaviour.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2065550,
+      "exportedPath": "im 1/papers/im1_pyq_behaviour.pdf",
+      "dependencies": []
+    },
+    "im 1/papers/mid26.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 238314,
+      "exportedPath": "im 1/papers/mid26.pdf",
+      "dependencies": []
+    },
+    "im 1/im 1 (RaIy) lec 1 (10th jan online).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1892,
+      "exportedPath": "im 1/im 1 (RaIy) lec 1 (10th jan online).html",
+      "dependencies": []
+    },
+    "im 1/im 1 (RaIy) lec 2 (12 jan).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1215,
+      "exportedPath": "im 1/im 1 (RaIy) lec 2 (12 jan).html",
+      "dependencies": []
+    },
+    "im 1/im 1 (RaIy) lec 5 (19 jan).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1372,
+      "exportedPath": "im 1/im 1 (RaIy) lec 5 (19 jan).html",
+      "dependencies": []
+    },
+    "im 1/im 1 (RaIy) lec 6 (23 feb).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1214,
+      "exportedPath": "im 1/im 1 (RaIy) lec 6 (23 feb).html",
+      "dependencies": []
+    },
+    "im 1/im1 last lec 26 march.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 933,
+      "exportedPath": "im 1/im1 last lec 26 march.html",
+      "dependencies": []
+    },
+    "im 1/im1 summary.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 9196,
+      "exportedPath": "im 1/im1 summary.html",
+      "dependencies": []
+    },
+    "im 1/im1endsem.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 154053,
+      "exportedPath": "im 1/im1endsem.pdf",
+      "dependencies": []
+    },
+    "im 2/im2 notes/finyce_Marketing 101 for beginners V2 - ICT Mumbai CCPCT - June 2020 (6).pptx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2476270,
+      "exportedPath": "im 2/im2 notes/finyce_Marketing 101 for beginners V2 - ICT Mumbai CCPCT - June 2020 (6).pptx",
+      "dependencies": []
+    },
+    "im 2/im2 notes/IM_POM2.pptx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 11752490,
+      "exportedPath": "im 2/im2 notes/IM_POM2.pptx",
+      "dependencies": []
+    },
+    "im 2/im2 notes/IM_POM2-1.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2203372,
+      "exportedPath": "im 2/im2 notes/IM_POM2-1.pdf",
+      "dependencies": []
+    },
+    "im 2/im2 notes/im2 endsem.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 101237,
+      "exportedPath": "im 2/im2 notes/im2 endsem.pdf",
+      "dependencies": []
+    },
+    "im 2/im2 notes/INDUSTRIAL MANAGEMENT.pptx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1376103,
+      "exportedPath": "im 2/im2 notes/INDUSTRIAL MANAGEMENT.pptx",
+      "dependencies": []
+    },
+    "im 2/im2 notes/INDUSTRIAL MANAGEMENT(1).pptx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1665984,
+      "exportedPath": "im 2/im2 notes/INDUSTRIAL MANAGEMENT(1).pptx",
+      "dependencies": []
+    },
+    "im 2/im2 notes/Marketing for Engineers 101.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2449876,
+      "exportedPath": "im 2/im2 notes/Marketing for Engineers 101.pdf",
+      "dependencies": []
+    },
+    "im 2/im2 notes/operations summary.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 54481,
+      "exportedPath": "im 2/im2 notes/operations summary.pdf",
+      "dependencies": []
+    },
+    "im 2/im2 notes/Operations_Management_notes_for_Chem._Engg._lecture.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 474024,
+      "exportedPath": "im 2/im2 notes/Operations_Management_notes_for_Chem._Engg._lecture.pdf",
+      "dependencies": []
+    },
+    "im 2/im2 notes/Operations_Management_notes_for_Chem._Engg._lecture.docx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 104755,
+      "exportedPath": "im 2/im2 notes/Operations_Management_notes_for_Chem._Engg._lecture.docx",
+      "dependencies": []
+    },
+    "im 2/im2 notes/pom2_25.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 633157,
+      "exportedPath": "im 2/im2 notes/pom2_25.pdf",
+      "dependencies": []
+    },
+    "im 2/im2 notes/Porter’s Five Forces.pptx": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 9588417,
+      "exportedPath": "im 2/im2 notes/Porter’s Five Forces.pptx",
+      "dependencies": []
+    },
+    "im 2/im 2 lec 1 (16 , 23 jan).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1858,
+      "exportedPath": "im 2/im 2 lec 1 (16 , 23 jan).html",
+      "dependencies": []
+    },
+    "im 2/im 2 lec 3,4 (6 feb, 13 feb).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 569,
+      "exportedPath": "im 2/im 2 lec 3,4 (6 feb, 13 feb).html",
+      "dependencies": []
+    },
+    "im 2/im 2 lec 5 (27 feb).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 76,
+      "exportedPath": "im 2/im 2 lec 5 (27 feb).html",
+      "dependencies": []
+    },
+    "im 2/im 2 lec 7 (16 march).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 4947,
+      "exportedPath": "im 2/im 2 lec 7 (16 march).html",
+      "dependencies": []
+    },
+    "im 2/im 2 lec 9 (27 mar).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 261,
+      "exportedPath": "im 2/im 2 lec 9 (27 mar).html",
+      "dependencies": []
+    },
+    "im 2/im 2 lec 11 (10 apr).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 603,
+      "exportedPath": "im 2/im 2 lec 11 (10 apr).html",
+      "dependencies": []
+    },
+    "im 2/im 2 revision notes.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 11336,
+      "exportedPath": "im 2/im 2 revision notes.html",
+      "dependencies": []
+    },
+    "im 2/im2 endsem.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 9717,
+      "exportedPath": "im 2/im2 endsem.html",
+      "dependencies": []
+    },
+    "im 2/im2notes.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 258923,
+      "exportedPath": "im 2/im2notes.pdf",
+      "dependencies": []
+    },
+    "im 2/operations summary.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 3508,
+      "exportedPath": "im 2/operations summary.html",
+      "dependencies": []
+    },
+    "mmt/mmt lec 1 (intro).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 292,
+      "exportedPath": "mmt/mmt lec 1 (intro).html",
+      "dependencies": []
+    },
+    "mmt/mmt lec 2 - fluid statics.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1056,
+      "exportedPath": "mmt/mmt lec 2 - fluid statics.html",
+      "dependencies": []
+    },
+    "mmt/mmt lec 3 - macroscopic balances.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 465,
+      "exportedPath": "mmt/mmt lec 3 - macroscopic balances.html",
+      "dependencies": []
+    },
+    "pre-midsems radiation curing/rd examples.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 9321,
+      "exportedPath": "pre-midsems radiation curing/rd examples.html",
+      "dependencies": []
+    },
+    "PSEE/lec19.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1472992,
+      "exportedPath": "PSEE/lec19.pdf",
+      "dependencies": []
+    },
+    "PSEE/lec20.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1853499,
+      "exportedPath": "PSEE/lec20.pdf",
+      "dependencies": []
+    },
+    "PSEE/lec30.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1424063,
+      "exportedPath": "PSEE/lec30.pdf",
+      "dependencies": []
+    },
+    "PSEE/lec31.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1420132,
+      "exportedPath": "PSEE/lec31.pdf",
+      "dependencies": []
+    },
+    "PSEE/lec32.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2087687,
+      "exportedPath": "PSEE/lec32.pdf",
+      "dependencies": []
+    },
+    "PSEE/lec39.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1754163,
+      "exportedPath": "PSEE/lec39.pdf",
+      "dependencies": []
+    },
+    "PSEE/lec40.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2600126,
+      "exportedPath": "PSEE/lec40.pdf",
+      "dependencies": []
+    },
+    "PSEE/PSEE full portion.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 58003067,
+      "exportedPath": "PSEE/PSEE full portion.pdf",
+      "dependencies": []
+    },
+    "PSEE/PSEE-Week-12.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2451610,
+      "exportedPath": "PSEE/PSEE-Week-12.pdf",
+      "dependencies": []
+    },
+    "seminar/citations/article Zhu2024 title.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 3011,
+      "exportedPath": "seminar/citations/article Zhu2024 title.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper1.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 583,
+      "exportedPath": "seminar/citations/paper1.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper2.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 511,
+      "exportedPath": "seminar/citations/paper2.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper3.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 443,
+      "exportedPath": "seminar/citations/paper3.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper4.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 419,
+      "exportedPath": "seminar/citations/paper4.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper5.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 596,
+      "exportedPath": "seminar/citations/paper5.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper6.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 561,
+      "exportedPath": "seminar/citations/paper6.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper7.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 654,
+      "exportedPath": "seminar/citations/paper7.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper8.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 594,
+      "exportedPath": "seminar/citations/paper8.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper9.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 570,
+      "exportedPath": "seminar/citations/paper9.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper10.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 569,
+      "exportedPath": "seminar/citations/paper10.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper11.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 427,
+      "exportedPath": "seminar/citations/paper11.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper12.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 464,
+      "exportedPath": "seminar/citations/paper12.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper13.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 479,
+      "exportedPath": "seminar/citations/paper13.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper14.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 547,
+      "exportedPath": "seminar/citations/paper14.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper15.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1795,
+      "exportedPath": "seminar/citations/paper15.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper16.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 477,
+      "exportedPath": "seminar/citations/paper16.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper17.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2077,
+      "exportedPath": "seminar/citations/paper17.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper18.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 662,
+      "exportedPath": "seminar/citations/paper18.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper19.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 798,
+      "exportedPath": "seminar/citations/paper19.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper20.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 662,
+      "exportedPath": "seminar/citations/paper20.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper21.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 517,
+      "exportedPath": "seminar/citations/paper21.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper22.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 696,
+      "exportedPath": "seminar/citations/paper22.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper23.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 165,
+      "exportedPath": "seminar/citations/paper23.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper24.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 597,
+      "exportedPath": "seminar/citations/paper24.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper25.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 675,
+      "exportedPath": "seminar/citations/paper25.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper26.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 532,
+      "exportedPath": "seminar/citations/paper26.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper27.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2213,
+      "exportedPath": "seminar/citations/paper27.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper28.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 3133,
+      "exportedPath": "seminar/citations/paper28.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper29.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1225,
+      "exportedPath": "seminar/citations/paper29.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper30.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2032,
+      "exportedPath": "seminar/citations/paper30.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper31.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2145,
+      "exportedPath": "seminar/citations/paper31.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper32.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1809,
+      "exportedPath": "seminar/citations/paper32.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper33.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1428,
+      "exportedPath": "seminar/citations/paper33.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper34.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2732,
+      "exportedPath": "seminar/citations/paper34.bib",
+      "dependencies": []
+    },
+    "seminar/citations/paper35.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 571,
+      "exportedPath": "seminar/citations/paper35.bib",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/better fermi levels why.webp": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 24608,
+      "exportedPath": "seminar/final_paper/figures/better fermi levels why.webp",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/fig1.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 7901,
+      "exportedPath": "seminar/final_paper/figures/fig1.png",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/fig2.jpg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 64692,
+      "exportedPath": "seminar/final_paper/figures/fig2.jpg",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/fig3.jpg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 24605,
+      "exportedPath": "seminar/final_paper/figures/fig3.jpg",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/fig4.jpg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 73735,
+      "exportedPath": "seminar/final_paper/figures/fig4.jpg",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/fig5.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 80304,
+      "exportedPath": "seminar/final_paper/figures/fig5.png",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/fig6.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 154729,
+      "exportedPath": "seminar/final_paper/figures/fig6.png",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/figa.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 654094,
+      "exportedPath": "seminar/final_paper/figures/figa.jpeg",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/figb.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 880449,
+      "exportedPath": "seminar/final_paper/figures/figb.jpeg",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/figc.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 30683,
+      "exportedPath": "seminar/final_paper/figures/figc.png",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/figd.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 26799,
+      "exportedPath": "seminar/final_paper/figures/figd.png",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/fige.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 7393,
+      "exportedPath": "seminar/final_paper/figures/fige.png",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/figi.jpeg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 504640,
+      "exportedPath": "seminar/final_paper/figures/figi.jpeg",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/figure2.svg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 30417,
+      "exportedPath": "seminar/final_paper/figures/figure2.svg",
+      "dependencies": []
+    },
+    "seminar/final_paper/figures/ictlogo.jpg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 46136,
+      "exportedPath": "seminar/final_paper/figures/ictlogo.jpg",
+      "dependencies": []
+    },
+    "seminar/final_paper/references.bib": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 28940,
+      "exportedPath": "seminar/final_paper/references.bib",
+      "dependencies": []
+    },
+    "seminar/final_paper/seminar_draft.toc": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 5003,
+      "exportedPath": "seminar/final_paper/seminar_draft.toc",
+      "dependencies": []
+    },
+    "seminar/final_paper/seminar_draft.tex": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 60166,
+      "exportedPath": "seminar/final_paper/seminar_draft.tex",
+      "dependencies": []
+    },
+    "seminar/final_paper/seminar_draft.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2787574,
+      "exportedPath": "seminar/final_paper/seminar_draft.pdf",
+      "dependencies": []
+    },
+    "seminar/final_paper/seminar_draft.out": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 12637,
+      "exportedPath": "seminar/final_paper/seminar_draft.out",
+      "dependencies": []
+    },
+    "seminar/final_paper/seminar_draft.lot": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 100,
+      "exportedPath": "seminar/final_paper/seminar_draft.lot",
+      "dependencies": []
+    },
+    "seminar/final_paper/seminar_draft.log": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 49338,
+      "exportedPath": "seminar/final_paper/seminar_draft.log",
+      "dependencies": []
+    },
+    "seminar/final_paper/seminar_draft.lof": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1397,
+      "exportedPath": "seminar/final_paper/seminar_draft.lof",
+      "dependencies": []
+    },
+    "seminar/final_paper/seminar_draft.blg": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 9672,
+      "exportedPath": "seminar/final_paper/seminar_draft.blg",
+      "dependencies": []
+    },
+    "seminar/final_paper/seminar_draft.bbl": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 41878,
+      "exportedPath": "seminar/final_paper/seminar_draft.bbl",
+      "dependencies": []
+    },
+    "seminar/final_paper/seminar_draft.aux": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 22907,
+      "exportedPath": "seminar/final_paper/seminar_draft.aux",
+      "dependencies": []
+    },
+    "seminar/final_paper/seminar_draft.synctex.gz": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 242903,
+      "exportedPath": "seminar/final_paper/seminar_draft.synctex.gz",
+      "dependencies": []
+    },
+    "seminar/final_paper/texput.log": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 771,
+      "exportedPath": "seminar/final_paper/texput.log",
+      "dependencies": []
+    },
+    "seminar/applications.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 808450,
+      "exportedPath": "seminar/applications.pdf",
+      "dependencies": []
+    },
+    "seminar/bib combine in terminal.txt": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 107,
+      "exportedPath": "seminar/bib combine in terminal.txt",
+      "dependencies": []
+    },
+    "seminar/controlling parameters.txt": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 184,
+      "exportedPath": "seminar/controlling parameters.txt",
+      "dependencies": []
+    },
+    "seminar/DIRECT ELECTROSYNTHESIS OF METAL COMPLEXES  STATE OF THE ART.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1981798,
+      "exportedPath": "seminar/DIRECT ELECTROSYNTHESIS OF METAL COMPLEXES  STATE OF THE ART.pdf",
+      "dependencies": []
+    },
+    "seminar/figure in latex begin.txt": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 412,
+      "exportedPath": "seminar/figure in latex begin.txt",
+      "dependencies": []
+    },
+    "seminar/Therese 2000 How is ed.txt": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1370,
+      "exportedPath": "seminar/Therese 2000 How is ed.txt",
+      "dependencies": []
+    },
+    "seminar/types of ed 1 galvanostatic.txt": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 121,
+      "exportedPath": "seminar/types of ed 1 galvanostatic.txt",
+      "dependencies": []
+    },
+    "spectro/lec8.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 744745,
+      "exportedPath": "spectro/lec8.pdf",
+      "dependencies": []
+    },
+    "spectro/lec16.pdf": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1328588,
+      "exportedPath": "spectro/lec16.pdf",
+      "dependencies": []
+    },
+    "24 feb psl.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 324,
+      "exportedPath": "24 feb psl.html",
+      "dependencies": []
+    },
+    "boilers.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 32,
+      "exportedPath": "boilers.html",
+      "dependencies": []
+    },
+    "cheat sheet.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1144,
+      "exportedPath": "cheat sheet.html",
+      "dependencies": []
+    },
+    "hp_ppt.odp": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 523609,
+      "exportedPath": "hp_ppt.odp",
+      "dependencies": []
+    },
+    "im1 pyq.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 3896,
+      "exportedPath": "im1 pyq.html",
+      "dependencies": []
+    },
+    "ipr.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1102,
+      "exportedPath": "ipr.html",
+      "dependencies": []
+    },
+    "lle column": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 36205,
+      "exportedPath": "lle column/lle column.",
+      "dependencies": []
+    },
+    "more notes.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 25523,
+      "exportedPath": "more notes.html",
+      "dependencies": []
+    },
+    "network digram example.canvas": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 2,
+      "exportedPath": "network digram example.html",
+      "dependencies": []
+    },
+    "optimization lab.md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 97,
+      "exportedPath": "optimization lab.html",
+      "dependencies": []
+    },
+    "Pasted image 20260326084551.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 132177,
+      "exportedPath": "Pasted image 20260326084551.png",
+      "dependencies": []
+    },
+    "Pasted image 20260326085904.png": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 150922,
+      "exportedPath": "Pasted image 20260326085904.png",
+      "dependencies": []
+    },
+    "spectroscopy lec 1 (22 jan).md": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 1511,
+      "exportedPath": "spectroscopy lec 1 (22 jan).html",
+      "dependencies": []
+    },
+    "lib/fonts/c504db5c06caaf7cdfba.woff2": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 352240,
+      "exportedPath": "lib/fonts/c504db5c06caaf7cdfba.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/01dcbad1bac635f9c9cd.woff2": {
+      "modifiedTime": 1787389716781,
+      "sourceSize": 387976,
+      "exportedPath": "lib/fonts/01dcbad1bac635f9c9cd.woff2",
       "dependencies": []
     }
   }

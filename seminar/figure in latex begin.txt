@@ -1,0 +1,24 @@
+Latex commands
+figure in latex
+\begin{figure}[h!]
+\centering
+\fbox{\includegraphics[width=12cm,height=10cm,keepaspectratio]{figures/fig2.png}}
+\caption{xyz}
+\label{fig:hysteresis}
+\end{figure}
+
+table in latex
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|c|}
+\hline
+Column 1 & Column 2 & Column 3 \\
+\hline
+A & B & C \\
+D & E & F \\
+\hline
+\end{tabular}
+\caption{Sample Table}
+\label{tab:sample}
+\end{table}
+

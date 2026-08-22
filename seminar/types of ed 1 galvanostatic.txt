@@ -1,0 +1,3 @@
+types of ed
+1. galvanostatic and potentiostatic (therese 2000)
+2. cathodic reduction and anodic oxidation (therese 2000)

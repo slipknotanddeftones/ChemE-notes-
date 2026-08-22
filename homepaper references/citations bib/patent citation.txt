@@ -1,0 +1,7 @@
+@misc{cananaush1954patent,
+  author       = {Cananaush, R. M.},
+  year         = {1954},
+  title        = {U.S. Patent 2,647,141},
+  howpublished = {Cf. Chemical Abstracts, Vol. 48, Abstract 82636},
+}
+

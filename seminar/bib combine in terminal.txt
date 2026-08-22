@@ -1,0 +1,5 @@
+bib combine in terminal
+cat paper1.bib paper2.bib paper3.bib > references.bib
+cat *.bib > references.bib
+
+

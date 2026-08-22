@@ -1,0 +1,28 @@
+Therese, 2000 How is ed diff from other methods
+(i) Electrochemical synthesis takes place close to the
+electrode within the electric double layer, which has a
+very high potential gradient of 105 V cm-1. Under these
+conditions, the reactions often lead to products which
+cannot be obtained in a chemical synthesis.
+(ii) The product is deposited on the electrode in the
+form of a thin film or a coating. Further, a solid-liquid
+interface facilitates the growth of conformal coatings on
+substrates of any shape, especially if a suitably shaped
+counter electrode is employed to provide uniform po-
+larization.
+(iii) Electrochemical synthesis is a low-temperature
+technique limited by the boiling point of the electrolyte.
+This can be raised by using molten salt electrolytes.
+(iv) Kinetic control can be exercised by controlling the
+current passed through the cell, while thermodynamic
+control can be exercised by choosing the applied cell
+potential.
+(v) An electrochemical synthesis is an oxidation or a
+reduction reaction. By fine-tuning the applied cell
+potential, the oxidizing or reducing power can be
+continuously varied and suitably selectedsa luxury not
+afforded by chemical synthesis.
+(vi) The film composition can be controlled by varying
+the bath composition.
+(vii) The experiments are simple to perform and the
+instruments are inexpensive and readily available.

@@ -1,0 +1,62 @@
+\contentsline {chapter}{List of Figures}{3}{}%
+\contentsline {chapter}{Abstract}{4}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{5}{}%
+\contentsline {section}{\numberline {1.1}Methods to synthesize MOS}{5}{}%
+\contentsline {subsection}{\numberline {1.1.1}Hydrothermal}{5}{}%
+\contentsline {subsection}{\numberline {1.1.2}Sol-gel}{6}{}%
+\contentsline {subsection}{\numberline {1.1.3}Vapour Deposition}{6}{}%
+\contentsline {subsection}{\numberline {1.1.4}Electrodeposition(ED) or Electrosynthesis (ES)}{7}{}%
+\contentsline {chapter}{\numberline {2}Overview of Electrosynthesis}{10}{}%
+\contentsline {section}{\numberline {2.1}Types of Electrosynthesis based on control}{10}{}%
+\contentsline {subsection}{\numberline {2.1.1}Potentiostatic electrosynthesis}{10}{}%
+\contentsline {subsubsection}{Three-Electrode Configuration}{10}{}%
+\contentsline {subsubsection}{Thermodynamic Control}{10}{}%
+\contentsline {subsubsection}{Kinetics and Current-Time Behaviour}{11}{}%
+\contentsline {subsubsection}{Advantages and Limitations}{12}{}%
+\contentsline {subsection}{\numberline {2.1.2}Galvanostatic electrosynthesis}{12}{}%
+\contentsline {subsubsection}{Electrochemical Basis}{12}{}%
+\contentsline {subsubsection}{Potential Drift and Its Consequences}{13}{}%
+\contentsline {subsubsection}{Advantages and Limitations}{13}{}%
+\contentsline {section}{\numberline {2.2}Types of Electrosynthesis based on governing reaction}{14}{}%
+\contentsline {subsection}{\numberline {2.2.1}Anodic oxidation}{14}{}%
+\contentsline {subsection}{\numberline {2.2.2}Cathodic reduction}{14}{}%
+\contentsline {subsection}{\numberline {2.2.3}Electro-generation of base}{15}{}%
+\contentsline {section}{\numberline {2.3}Advantages of electrosynthesis}{16}{}%
+\contentsline {chapter}{\numberline {3}Recent advances in Electrosynthesis of Metal Oxide Semiconductors}{17}{}%
+\contentsline {section}{\numberline {3.1}Fundamental Principles and Methodologies}{17}{}%
+\contentsline {subsection}{\numberline {3.1.1}Core Electrochemical Principles}{17}{}%
+\contentsline {subsection}{\numberline {3.1.2}Reduction of Processing Temperatures}{17}{}%
+\contentsline {subsection}{\numberline {3.1.3}Ligand Selection and Composition Control}{18}{}%
+\contentsline {section}{\numberline {3.2}Advanced Synthesis Techniques and Innovations}{18}{}%
+\contentsline {subsection}{\numberline {3.2.1}Anion-Assisted Electrodeposition}{18}{}%
+\contentsline {subsection}{\numberline {3.2.2}Hydrogen-Doped Metal Oxide Semiconductors}{18}{}%
+\contentsline {subsection}{\numberline {3.2.3}Morphological Control Through Templating}{19}{}%
+\contentsline {subsection}{\numberline {3.2.4}Spatially Directed Electrosynthesis}{20}{}%
+\contentsline {subsection}{\numberline {3.2.5}Catalytic Metal Assisted Crystallization}{20}{}%
+\contentsline {section}{\numberline {3.3}Enhancing the Inter-facial properties}{21}{}%
+\contentsline {subsection}{\numberline {3.3.1}Interfacial Chemistry Optimization}{21}{}%
+\contentsline {section}{\numberline {3.4}Structural Characterization and Predictive Modelling}{21}{}%
+\contentsline {section}{\numberline {3.5}Specific Oxide Systems and Their Synthesis}{21}{}%
+\contentsline {section}{\numberline {3.6}Synthesis Challenges and Future Directions}{22}{}%
+\contentsline {chapter}{\numberline {4}Applications and Uses}{24}{}%
+\contentsline {section}{\numberline {4.1}Applications in making electronic devices}{24}{}%
+\contentsline {subsection}{\numberline {4.1.1}Metal-Oxide-Semiconductor Field-Effect Transistors (MOSFETs)}{24}{}%
+\contentsline {subsection}{\numberline {4.1.2}Memory devices and Cross point architecture}{24}{}%
+\contentsline {subsection}{\numberline {4.1.3}Advanced solution processed semiconductors}{25}{}%
+\contentsline {section}{\numberline {4.2}Applications in energy conversions}{26}{}%
+\contentsline {subsection}{\numberline {4.2.1}Photo-electro-chemical splitting of water}{26}{}%
+\contentsline {subsection}{\numberline {4.2.2}Quantum Dot Sensitized Solar cells}{27}{}%
+\contentsline {subsection}{\numberline {4.2.3}Photo-voltaic applications}{27}{}%
+\contentsline {subsection}{\numberline {4.2.4}Photo-electronic device}{28}{}%
+\contentsline {section}{\numberline {4.3}Applications in Energy storage}{28}{}%
+\contentsline {subsection}{\numberline {4.3.1}Super-Capacitor electrodes}{28}{}%
+\contentsline {subsection}{\numberline {4.3.2}Uses as Materials in batteries}{28}{}%
+\contentsline {section}{\numberline {4.4}Applications as Sensors}{29}{}%
+\contentsline {subsection}{\numberline {4.4.1}Gas Sensors and Chemiresistive Devices}{29}{}%
+\contentsline {subsection}{\numberline {4.4.2}Biosensors}{29}{}%
+\contentsline {section}{\numberline {4.5}Fuel Cell Technologies}{29}{}%
+\contentsline {section}{\numberline {4.6}Catalytic and Electrocatalytic Applications}{30}{}%
+\contentsline {section}{\numberline {4.7}Plasmonics and Optoelectronic Applications}{30}{}%
+\contentsline {chapter}{\numberline {5}Conclusion}{31}{}%
+\contentsline {chapter}{References}{31}{}%
+\contentsline {chapter}{References}{32}{}%

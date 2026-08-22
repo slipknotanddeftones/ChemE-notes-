@@ -1,0 +1,14 @@
+IB + O2 → Acetone + Formaldehyde
+MAC +3O2 → Acetic acid + CO2 + H2O
+MAC + 2O2 → Acryclic acid + H2O
+IB + 2.5 O2 → Acroelin + CO2 + 2H2O
+MAC + 1.5O2 → Acrolein + CO2 + H2O
+MAC + 2.5O2 → Acetaldehyde + 2CO2 + H2O
+IB + 4O2 → 4CO2 + 4 H2O
+IB + 2 O2 → 4CO + 4 H2O
+MAC + 5.5O2 → 4CO2 + 3H2O
+MAC + 3.5O2 → 4CO + 3H2O
+IB + O2 → MAC + H2O
+MAC + 0.5 O2 → MAA 
+Formaldehyde + 0.5O2 → Formic acid
+

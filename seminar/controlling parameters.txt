@@ -1,0 +1,7 @@
+controlling parameters for ed
+1. ligand selection (chen 2015)
+2. ph (therese 2000)
+3. annealing temperature
+4. type of control
+5. current density(oliva 2024)
+6. agitation (oliva 2024)
